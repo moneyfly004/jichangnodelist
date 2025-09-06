@@ -64,24 +64,6 @@ proxy-groups:
   - 🇮🇪 爱尔兰-都柏林 - 神盾
   - soga002 - v2b123
   - soga001 - v2b123
-  - 🇮🇳 [电信专线] 印度 x A区 - 南北云
-  - 🇮🇳 [联通专线] 印度 x A区 - 南北云
-  - 🇮🇳 [移动专线] 印度 x A区 - 南北云
-  - 🇧🇷 [电信专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [联通专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [移动专线] 巴西 x A区 - 南北云
-  - 🇻🇳 [电信专线] 越南 x A区 - 南北云
-  - 🇻🇳 [联通专线] 越南 x A区 - 南北云
-  - 🇻🇳 [移动专线] 越南 x A区 - 南北云
-  - 🇩🇪 [电信专线] 德国 xA区 - 南北云
-  - 🇩🇪 [联通专线] 德国 x A区 - 南北云
-  - 🇩🇪 [移动专线] 德国 x A区 - 南北云
-  - 🇰🇷 [电信专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [联通专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [移动专线] 韩国 x A区 - 南北云
-  - 🇫🇷 [电信专线] 法国 x A区 - 南北云
-  - 🇫🇷 [联通专线] 法国 x A区 - 南北云
-  - 🇫🇷 [移动专线] 法国 x A区 - 南北云
   - ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple
   - ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple
   - 🇭🇰 香港核心节点-01 - 快云加速
@@ -96,9 +78,6 @@ proxy-groups:
   - 🇭🇰 香港③一优化 - tuboshu.io|土拨鼠.co
   - 🇭🇰 香港-线路1 - 神盾
   - 🇭🇰 [vmess]VM香港HK - 新谷歌--好链接
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
   - 🇯🇵 日本核心节点-01 - 快云加速
   - 🇯🇵 日本核心节点-02 - 快云加速
   - 🇯🇵 日本-v6|02 - 悦云
@@ -112,16 +91,10 @@ proxy-groups:
   - 🇯🇵 日本①一优化 - tuboshu.io|土拨鼠.co
   - 🇯🇵 日本②东京一优化 - tuboshu.io|土拨鼠.co
   - 🇯🇵 日本③大阪一优化 - tuboshu.io|土拨鼠.co
-  - 🇯🇵 [电信专线] 日本 x A区 - 南北云
-  - 🇯🇵 [联通专线] 日本 x A区 - 南北云
-  - 🇯🇵 [移动专线] 日本 x A区 - 南北云
   - 🇸🇬 新加坡核心节点-01 - 快云加速
   - 🇸🇬 新加坡核心节点-02 - 快云加速
   - 🇸🇬 新加坡①一优化 - tuboshu.io|土拨鼠.co
   - 🇸🇬 新加坡②一优化 - tuboshu.io|土拨鼠.co
-  - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
   - 🇺🇸 美国核心节点-01 - 快云加速
   - 🇺🇸 美国核心节点-02 - 快云加速
   - 台湾入口1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
@@ -150,66 +123,50 @@ proxy-groups:
   - 🇺🇸 美国洛杉矶②一优化 - tuboshu.io|土拨鼠.co
   - 🇺🇸 [vmess]VM美国US01 - 新谷歌--好链接
   - 🇺🇸 美国高速节点1 - 新云游
-  - 🇺🇸 [电信专线] 美国 x A区 - 南北云
-  - 🇺🇸 [联通专线] 美国 x A区 - 南北云
-  - 🇺🇸 [移动专线] 美国 x A区 - 南北云
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK香港1-PQ - 脉冲云
+  - 🇭🇰 HK香港2-PQ - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
+  - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
+  - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
   - 🇸🇬 Singapore新加坡-01-st - 脉冲云
   - 🇸🇬 Singapore新加坡-02-wap - 脉冲云
   - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 Singapore新加坡-01-st - 脉冲云
   - 🇸🇬 Singapore新加坡-02-wap - 脉冲云
   - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 Singapore新加坡-01-st - 脉冲云
   - 🇸🇬 Singapore新加坡-02-wap - 脉冲云
   - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
+  - 🇸🇬 Singapore新加坡-01-st - 脉冲云
+  - 🇸🇬 Singapore新加坡-02-wap - 脉冲云
+  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
   - 🇰🇷 KR韩国-Seoul - 脉冲云
   - 🇫🇷 FR法国-Paris - 脉冲云
   - 🇹🇭 TH泰国-Thailand - 脉冲云
@@ -223,27 +180,6 @@ proxy-groups:
   - 🇦🇹 AT奥地利-Vienna - 脉冲云
   - 🇩🇪 DE德国-Nuremberg - 脉冲云
   - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
-  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
   - 🇰🇷 KR韩国-Seoul - 脉冲云
   - 🇫🇷 FR法国-Paris - 脉冲云
   - 🇹🇭 TH泰国-Thailand - 脉冲云
@@ -257,27 +193,6 @@ proxy-groups:
   - 🇦🇹 AT奥地利-Vienna - 脉冲云
   - 🇩🇪 DE德国-Nuremberg - 脉冲云
   - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
-  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
   - 🇰🇷 KR韩国-Seoul - 脉冲云
   - 🇫🇷 FR法国-Paris - 脉冲云
   - 🇹🇭 TH泰国-Thailand - 脉冲云
@@ -291,63 +206,35 @@ proxy-groups:
   - 🇦🇹 AT奥地利-Vienna - 脉冲云
   - 🇩🇪 DE德国-Nuremberg - 脉冲云
   - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
-  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
+  - 🇰🇷 KR韩国-Seoul - 脉冲云
+  - 🇫🇷 FR法国-Paris - 脉冲云
+  - 🇹🇭 TH泰国-Thailand - 脉冲云
+  - 🇲🇾 MY马来西亚-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU澳大利亚-Sydney - 脉冲云
+  - 🇳🇱 NL荷兰-Amsterdam - 脉冲云
+  - 🇨🇦 CA加拿大-Toronto - 脉冲云
+  - 🇬🇧 GB英国-London - 脉冲云
+  - 🇪🇸 ES西班牙-Madrid - 脉冲云
+  - 🇮🇹 IT意大利-Milan - 脉冲云
+  - 🇦🇹 AT奥地利-Vienna - 脉冲云
+  - 🇩🇪 DE德国-Nuremberg - 脉冲云
+  - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
   - 🇯🇵 JP日本-Tokyo-01 - 脉冲云
   - 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 JP日本-Tokyo-01 - 脉冲云
   - 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 JP日本-Tokyo-01 - 脉冲云
   - 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
+  - 🇯🇵 JP日本-Tokyo-01 - 脉冲云
+  - 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云
   - 🇺🇸 US美国-Los Angeles-01 - 脉冲云
   - 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 US美国-Los Angeles-01 - 脉冲云
   - 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 US美国-Los Angeles-01 - 脉冲云
   - 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
+  - 🇺🇸 US美国-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云
   - ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场
   - ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场
   - 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场
@@ -374,6 +261,26 @@ proxy-groups:
   - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
+  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
+  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
+  - 🇰🇷 ss(广移)韩国1 - 雷达
+  - 🇰🇷 ss(广移)韩国2 - 雷达
+  - 🇲🇾 ss(广移)马来西亚1 - 雷达
+  - 🇲🇾 ss(广移)马来西亚2 - 雷达
+  - 🇮🇱 ss(广移)以色列1 - 雷达
+  - 🇮🇱 ss(广移)以色列2 - 雷达
+  - 🇮🇳 ss(广移)印度1 - 雷达
+  - 🇮🇳 ss(广移)印度2 - 雷达
+  - 🇹🇷 ss(广移)土耳其1 - 雷达
+  - 🇹🇷 ss(广移)土耳其2 - 雷达
+  - 🇮🇸 ss(广移)冰岛1 - 雷达
+  - 🇮🇸 ss(广移)冰岛2 - 雷达
+  - 🇧🇷 ss(广移) 巴西1 - 雷达
+  - 🇧🇷 ss(广移)巴西2 - 雷达
+  - 🇲🇽 ss(广移)墨西哥1 - 雷达
+  - 🇲🇽 ss(广移)墨西哥2 - 雷达
+  - 🇹🇭 ss(广移)泰国1 - 雷达
+  - 🇹🇭 ss(广移)泰国2 - 雷达
   - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
   - 🇮🇳 [vip①]印度1 - MG Network
   - 🇩🇪 [vip①]德国1 - MG Network
@@ -407,6 +314,26 @@ proxy-groups:
   - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
+  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
+  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
+  - 🇰🇷 ss(广移)韩国1 - 雷达
+  - 🇰🇷 ss(广移)韩国2 - 雷达
+  - 🇲🇾 ss(广移)马来西亚1 - 雷达
+  - 🇲🇾 ss(广移)马来西亚2 - 雷达
+  - 🇮🇱 ss(广移)以色列1 - 雷达
+  - 🇮🇱 ss(广移)以色列2 - 雷达
+  - 🇮🇳 ss(广移)印度1 - 雷达
+  - 🇮🇳 ss(广移)印度2 - 雷达
+  - 🇹🇷 ss(广移)土耳其1 - 雷达
+  - 🇹🇷 ss(广移)土耳其2 - 雷达
+  - 🇮🇸 ss(广移)冰岛1 - 雷达
+  - 🇮🇸 ss(广移)冰岛2 - 雷达
+  - 🇧🇷 ss(广移) 巴西1 - 雷达
+  - 🇧🇷 ss(广移)巴西2 - 雷达
+  - 🇲🇽 ss(广移)墨西哥1 - 雷达
+  - 🇲🇽 ss(广移)墨西哥2 - 雷达
+  - 🇹🇭 ss(广移)泰国1 - 雷达
+  - 🇹🇭 ss(广移)泰国2 - 雷达
   - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
   - 🇮🇳 [vip①]印度1 - MG Network
   - 🇩🇪 [vip①]德国1 - MG Network
@@ -420,6 +347,8 @@ proxy-groups:
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
@@ -427,6 +356,8 @@ proxy-groups:
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
@@ -434,6 +365,8 @@ proxy-groups:
   - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
@@ -441,19 +374,33 @@ proxy-groups:
   - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 ss(广移)日本1 - 雷达
+  - 🇯🇵 ss(广移)日本2 - 雷达
+  - 🇯🇵 ss(广移)日本4 - 雷达
+  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 ss(广移)日本1 - 雷达
+  - 🇯🇵 ss(广移)日本2 - 雷达
+  - 🇯🇵 ss(广移)日本4 - 雷达
+  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
@@ -461,27 +408,36 @@ proxy-groups:
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 ss(广移)美国1 - 雷达
+  - 🇺🇸 ss(广移)美国2 - 雷达
+  - 🇺🇸 ss(广移)美国2-1 - 雷达
+  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 ss(广移)美国1 - 雷达
+  - 🇺🇸 ss(广移)美国2 - 雷达
+  - 🇺🇸 ss(广移)美国2-1 - 雷达
+  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇹🇼 台湾②一优化 - tuboshu.io|土拨鼠.co
   - 🇹🇼 台湾台北原生一优化 - tuboshu.io|土拨鼠.co
   - 🇹🇼 台湾高速节点 - 新云游
   - 🇹🇼 台湾高速节点2 - 新云游
   - 🇹🇼 台湾高速节点3 - 新云游
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
+  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
+  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
+  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
   - 🇨🇳 中国联通节点1 - 新云游
-  - 🇨🇳官网地址：tsxspace.com - 南北云
-  - 🇨🇳注册试用1小时限1MB - 南北云
-  - 🇨🇳 ---------------------- - 南北云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -549,39 +505,38 @@ proxy-groups:
   - 🇭🇰 香港③一优化 - tuboshu.io|土拨鼠.co
   - 🇭🇰 香港-线路1 - 神盾
   - 🇭🇰 [vmess]VM香港HK - 新谷歌--好链接
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK香港1-PQ - 脉冲云
+  - 🇭🇰 HK香港2-PQ - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
@@ -589,6 +544,8 @@ proxy-groups:
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 [vip①]①香港 - MG Network
 - name: 🇹🇼 ‍台湾
   type: url-test
@@ -598,28 +555,22 @@ proxy-groups:
   proxies: &id003
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
+  - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
+  - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
@@ -627,15 +578,16 @@ proxy-groups:
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 台湾②一优化 - tuboshu.io|土拨鼠.co
   - 🇹🇼 台湾台北原生一优化 - tuboshu.io|土拨鼠.co
   - 🇹🇼 台湾高速节点 - 新云游
   - 🇹🇼 台湾高速节点2 - 新云游
   - 🇹🇼 台湾高速节点3 - 新云游
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -654,57 +606,46 @@ proxy-groups:
   - 🇭🇰 香港③一优化 - tuboshu.io|土拨鼠.co
   - 🇭🇰 香港-线路1 - 神盾
   - 🇭🇰 [vmess]VM香港HK - 新谷歌--好链接
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK香港1-PQ - 脉冲云
   - 🇭🇰 HK香港2-PQ - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK香港1-PQ - 脉冲云
+  - 🇭🇰 HK香港2-PQ - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
   - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
+  - 🇹🇼 CN台湾-TaiBei-01 - 脉冲云
+  - 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
@@ -712,6 +653,8 @@ proxy-groups:
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
@@ -719,6 +662,10 @@ proxy-groups:
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
@@ -726,19 +673,17 @@ proxy-groups:
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 台湾②一优化 - tuboshu.io|土拨鼠.co
   - 🇹🇼 台湾台北原生一优化 - tuboshu.io|土拨鼠.co
   - 🇹🇼 台湾高速节点 - 新云游
   - 🇹🇼 台湾高速节点2 - 新云游
   - 🇹🇼 台湾高速节点3 - 新云游
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
   - 🇨🇳 中国联通节点1 - 新云游
-  - 🇨🇳官网地址：tsxspace.com - 南北云
-  - 🇨🇳注册试用1小时限1MB - 南北云
-  - 🇨🇳 ---------------------- - 南北云
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -749,30 +694,26 @@ proxy-groups:
   - 🇸🇬 新加坡核心节点-02 - 快云加速
   - 🇸🇬 新加坡①一优化 - tuboshu.io|土拨鼠.co
   - 🇸🇬 新加坡②一优化 - tuboshu.io|土拨鼠.co
-  - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
   - 🇸🇬 Singapore新加坡-01-st - 脉冲云
   - 🇸🇬 Singapore新加坡-02-wap - 脉冲云
   - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 Singapore新加坡-01-st - 脉冲云
   - 🇸🇬 Singapore新加坡-02-wap - 脉冲云
   - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 Singapore新加坡-01-st - 脉冲云
   - 🇸🇬 Singapore新加坡-02-wap - 脉冲云
   - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
+  - 🇸🇬 Singapore新加坡-01-st - 脉冲云
+  - 🇸🇬 Singapore新加坡-02-wap - 脉冲云
+  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
   - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
@@ -780,6 +721,8 @@ proxy-groups:
   - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 [vip①]②新加坡 - MG Network
 - name: 🇯🇵 ‍日本
   type: url-test
@@ -800,23 +743,17 @@ proxy-groups:
   - 🇯🇵 日本①一优化 - tuboshu.io|土拨鼠.co
   - 🇯🇵 日本②东京一优化 - tuboshu.io|土拨鼠.co
   - 🇯🇵 日本③大阪一优化 - tuboshu.io|土拨鼠.co
-  - 🇯🇵 [电信专线] 日本 x A区 - 南北云
-  - 🇯🇵 [联通专线] 日本 x A区 - 南北云
-  - 🇯🇵 [移动专线] 日本 x A区 - 南北云
   - 🇯🇵 JP日本-Tokyo-01 - 脉冲云
   - 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 JP日本-Tokyo-01 - 脉冲云
   - 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 JP日本-Tokyo-01 - 脉冲云
   - 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云
+  - 🇯🇵 JP日本-Tokyo-01 - 脉冲云
+  - 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云
+  - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 ss(广移)日本1 - 雷达
   - 🇯🇵 ss(广移)日本2 - 雷达
   - 🇯🇵 ss(广移)日本4 - 雷达
@@ -824,9 +761,10 @@ proxy-groups:
   - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
-  - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
-  - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
-  - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 ss(广移)日本1 - 雷达
+  - 🇯🇵 ss(广移)日本2 - 雷达
+  - 🇯🇵 ss(广移)日本4 - 雷达
+  - 🇯🇵 ss(广移)日本3 - 雷达
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -861,34 +799,29 @@ proxy-groups:
   - 🇺🇸 美国洛杉矶②一优化 - tuboshu.io|土拨鼠.co
   - 🇺🇸 [vmess]VM美国US01 - 新谷歌--好链接
   - 🇺🇸 美国高速节点1 - 新云游
-  - 🇺🇸 [电信专线] 美国 x A区 - 南北云
-  - 🇺🇸 [联通专线] 美国 x A区 - 南北云
-  - 🇺🇸 [移动专线] 美国 x A区 - 南北云
   - 🇺🇸 US美国-Los Angeles-01 - 脉冲云
   - 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 US美国-Los Angeles-01 - 脉冲云
   - 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 US美国-Los Angeles-01 - 脉冲云
   - 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
+  - 🇺🇸 US美国-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云
   - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 ss(广移)美国1 - 雷达
+  - 🇺🇸 ss(广移)美国2 - 雷达
+  - 🇺🇸 ss(广移)美国2-1 - 雷达
+  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 ss(广移)美国1 - 雷达
+  - 🇺🇸 ss(广移)美国2 - 雷达
+  - 🇺🇸 ss(广移)美国2-1 - 雷达
+  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 [vip①]美国1 - MG Network
 - name: 🎏 ‍其他
   type: url-test
@@ -927,24 +860,6 @@ proxy-groups:
   - 🇮🇪 爱尔兰-都柏林 - 神盾
   - soga002 - v2b123
   - soga001 - v2b123
-  - 🇮🇳 [电信专线] 印度 x A区 - 南北云
-  - 🇮🇳 [联通专线] 印度 x A区 - 南北云
-  - 🇮🇳 [移动专线] 印度 x A区 - 南北云
-  - 🇧🇷 [电信专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [联通专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [移动专线] 巴西 x A区 - 南北云
-  - 🇻🇳 [电信专线] 越南 x A区 - 南北云
-  - 🇻🇳 [联通专线] 越南 x A区 - 南北云
-  - 🇻🇳 [移动专线] 越南 x A区 - 南北云
-  - 🇩🇪 [电信专线] 德国 xA区 - 南北云
-  - 🇩🇪 [联通专线] 德国 x A区 - 南北云
-  - 🇩🇪 [移动专线] 德国 x A区 - 南北云
-  - 🇰🇷 [电信专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [联通专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [移动专线] 韩国 x A区 - 南北云
-  - 🇫🇷 [电信专线] 法国 x A区 - 南北云
-  - 🇫🇷 [联通专线] 法国 x A区 - 南北云
-  - 🇫🇷 [移动专线] 法国 x A区 - 南北云
   - ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple
   - ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple
   - 🇰🇷 KR韩国-Seoul - 脉冲云
@@ -960,27 +875,6 @@ proxy-groups:
   - 🇦🇹 AT奥地利-Vienna - 脉冲云
   - 🇩🇪 DE德国-Nuremberg - 脉冲云
   - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
-  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
   - 🇰🇷 KR韩国-Seoul - 脉冲云
   - 🇫🇷 FR法国-Paris - 脉冲云
   - 🇹🇭 TH泰国-Thailand - 脉冲云
@@ -994,27 +888,6 @@ proxy-groups:
   - 🇦🇹 AT奥地利-Vienna - 脉冲云
   - 🇩🇪 DE德国-Nuremberg - 脉冲云
   - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
-  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
   - 🇰🇷 KR韩国-Seoul - 脉冲云
   - 🇫🇷 FR法国-Paris - 脉冲云
   - 🇹🇭 TH泰国-Thailand - 脉冲云
@@ -1028,27 +901,19 @@ proxy-groups:
   - 🇦🇹 AT奥地利-Vienna - 脉冲云
   - 🇩🇪 DE德国-Nuremberg - 脉冲云
   - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
-  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
+  - 🇰🇷 KR韩国-Seoul - 脉冲云
+  - 🇫🇷 FR法国-Paris - 脉冲云
+  - 🇹🇭 TH泰国-Thailand - 脉冲云
+  - 🇲🇾 MY马来西亚-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU澳大利亚-Sydney - 脉冲云
+  - 🇳🇱 NL荷兰-Amsterdam - 脉冲云
+  - 🇨🇦 CA加拿大-Toronto - 脉冲云
+  - 🇬🇧 GB英国-London - 脉冲云
+  - 🇪🇸 ES西班牙-Madrid - 脉冲云
+  - 🇮🇹 IT意大利-Milan - 脉冲云
+  - 🇦🇹 AT奥地利-Vienna - 脉冲云
+  - 🇩🇪 DE德国-Nuremberg - 脉冲云
+  - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
   - ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场
   - ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场
   - 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场
@@ -1075,6 +940,26 @@ proxy-groups:
   - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
+  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
+  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
+  - 🇰🇷 ss(广移)韩国1 - 雷达
+  - 🇰🇷 ss(广移)韩国2 - 雷达
+  - 🇲🇾 ss(广移)马来西亚1 - 雷达
+  - 🇲🇾 ss(广移)马来西亚2 - 雷达
+  - 🇮🇱 ss(广移)以色列1 - 雷达
+  - 🇮🇱 ss(广移)以色列2 - 雷达
+  - 🇮🇳 ss(广移)印度1 - 雷达
+  - 🇮🇳 ss(广移)印度2 - 雷达
+  - 🇹🇷 ss(广移)土耳其1 - 雷达
+  - 🇹🇷 ss(广移)土耳其2 - 雷达
+  - 🇮🇸 ss(广移)冰岛1 - 雷达
+  - 🇮🇸 ss(广移)冰岛2 - 雷达
+  - 🇧🇷 ss(广移) 巴西1 - 雷达
+  - 🇧🇷 ss(广移)巴西2 - 雷达
+  - 🇲🇽 ss(广移)墨西哥1 - 雷达
+  - 🇲🇽 ss(广移)墨西哥2 - 雷达
+  - 🇹🇭 ss(广移)泰国1 - 雷达
+  - 🇹🇭 ss(广移)泰国2 - 雷达
   - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
   - 🇮🇳 [vip①]印度1 - MG Network
   - 🇩🇪 [vip①]德国1 - MG Network
@@ -1108,6 +993,26 @@ proxy-groups:
   - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
+  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
+  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
+  - 🇰🇷 ss(广移)韩国1 - 雷达
+  - 🇰🇷 ss(广移)韩国2 - 雷达
+  - 🇲🇾 ss(广移)马来西亚1 - 雷达
+  - 🇲🇾 ss(广移)马来西亚2 - 雷达
+  - 🇮🇱 ss(广移)以色列1 - 雷达
+  - 🇮🇱 ss(广移)以色列2 - 雷达
+  - 🇮🇳 ss(广移)印度1 - 雷达
+  - 🇮🇳 ss(广移)印度2 - 雷达
+  - 🇹🇷 ss(广移)土耳其1 - 雷达
+  - 🇹🇷 ss(广移)土耳其2 - 雷达
+  - 🇮🇸 ss(广移)冰岛1 - 雷达
+  - 🇮🇸 ss(广移)冰岛2 - 雷达
+  - 🇧🇷 ss(广移) 巴西1 - 雷达
+  - 🇧🇷 ss(广移)巴西2 - 雷达
+  - 🇲🇽 ss(广移)墨西哥1 - 雷达
+  - 🇲🇽 ss(广移)墨西哥2 - 雷达
+  - 🇹🇭 ss(广移)泰国1 - 雷达
+  - 🇹🇭 ss(广移)泰国2 - 雷达
   - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
   - 🇮🇳 [vip①]印度1 - MG Network
   - 🇩🇪 [vip①]德国1 - MG Network
@@ -1115,6 +1020,9 @@ proxy-groups:
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
+  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
+  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
+  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -1149,34 +1057,34 @@ proxies:
 - {name: ℹ️ 客服qq:1586932845 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
 - {name: ℹ️ 节点超时请更新订阅 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
 - {name: 🇰🇷 韩国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 22665, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇯🇵 JP日本-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇸🇬 Singapore新加坡-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇸🇬 Singapore新加坡-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: ab7d100a-bb33-404d-9b06-93d505e66861, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 US美国-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19523, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19528, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇭🇰 HK香港1-PQ - 脉冲云, server: gyjd.yy9866.com, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇭🇰 HK香港2-PQ - 脉冲云, server: gyjd.yy9866.com, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇹🇼 CN台湾-TaiBei-01 - 脉冲云, server: gyjd.yy9866.com, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: ab7d100a-bb33-404d-9b06-93d505e66861, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: ab7d100a-bb33-404d-9b06-93d505e66861, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇰🇷 KR韩国-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇫🇷 FR法国-Paris - 脉冲云, server: gyjd.yy9866.com, port: 16947, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇹🇭 TH泰国-Thailand - 脉冲云, server: gyjd.yy9866.com, port: 36659, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇲🇾 MY马来西亚-Malaysia-PQ - 脉冲云, server: gyjd.yy9866.com, port: 37681, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇦🇺 AU澳大利亚-Sydney - 脉冲云, server: gyjd.yy9866.com, port: 39263, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇳🇱 NL荷兰-Amsterdam - 脉冲云, server: gyjd.yy9866.com, port: 23262, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇨🇦 CA加拿大-Toronto - 脉冲云, server: gyjd.yy9866.com, port: 28322, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇬🇧 GB英国-London - 脉冲云, server: gyjd.yy9866.com, port: 45092, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇪🇸 ES西班牙-Madrid - 脉冲云, server: gyjd.yy9866.com, port: 34502, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇮🇹 IT意大利-Milan - 脉冲云, server: gyjd.yy9866.com, port: 39062, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇦🇹 AT奥地利-Vienna - 脉冲云, server: gyjd.yy9866.com, port: 23896, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇩🇪 DE德国-Nuremberg - 脉冲云, server: gyjd.yy9866.com, port: 22425, type: ss, cipher: chacha20-ietf-poly1305, password: ab7d100a-bb33-404d-9b06-93d505e66861, udp: true}
-- {name: 🇬🇧 OR英国-新疆国外节点 - 脉冲云, server: 79.72.95.9, port: 18419, type: vmess, uuid: ab7d100a-bb33-404d-9b06-93d505e66861, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇯🇵 JP日本-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇸🇬 Singapore新加坡-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇸🇬 Singapore新加坡-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: ecf89336-f1d8-48a4-b660-bce85fcda1de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 US美国-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19523, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19528, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇭🇰 HK香港1-PQ - 脉冲云, server: gyjd.yy9866.com, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇭🇰 HK香港2-PQ - 脉冲云, server: gyjd.yy9866.com, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇹🇼 CN台湾-TaiBei-01 - 脉冲云, server: gyjd.yy9866.com, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: ecf89336-f1d8-48a4-b660-bce85fcda1de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: ecf89336-f1d8-48a4-b660-bce85fcda1de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇰🇷 KR韩国-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇫🇷 FR法国-Paris - 脉冲云, server: gyjd.yy9866.com, port: 16947, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇹🇭 TH泰国-Thailand - 脉冲云, server: gyjd.yy9866.com, port: 36659, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇲🇾 MY马来西亚-Malaysia-PQ - 脉冲云, server: gyjd.yy9866.com, port: 37681, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇦🇺 AU澳大利亚-Sydney - 脉冲云, server: gyjd.yy9866.com, port: 39263, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇳🇱 NL荷兰-Amsterdam - 脉冲云, server: gyjd.yy9866.com, port: 23262, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇨🇦 CA加拿大-Toronto - 脉冲云, server: gyjd.yy9866.com, port: 28322, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇬🇧 GB英国-London - 脉冲云, server: gyjd.yy9866.com, port: 45092, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇪🇸 ES西班牙-Madrid - 脉冲云, server: gyjd.yy9866.com, port: 34502, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇮🇹 IT意大利-Milan - 脉冲云, server: gyjd.yy9866.com, port: 39062, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇦🇹 AT奥地利-Vienna - 脉冲云, server: gyjd.yy9866.com, port: 23896, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇩🇪 DE德国-Nuremberg - 脉冲云, server: gyjd.yy9866.com, port: 22425, type: ss, cipher: chacha20-ietf-poly1305, password: ecf89336-f1d8-48a4-b660-bce85fcda1de, udp: true}
+- {name: 🇬🇧 OR英国-新疆国外节点 - 脉冲云, server: 79.72.95.9, port: 18419, type: vmess, uuid: ecf89336-f1d8-48a4-b660-bce85fcda1de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 49f2982f-1e8d-4b42-a0ee-9bc23487b5f0, udp: true}
 - {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 49f2982f-1e8d-4b42-a0ee-9bc23487b5f0, udp: true}
 - {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 49f2982f-1e8d-4b42-a0ee-9bc23487b5f0, udp: true}
@@ -1227,20 +1135,20 @@ proxies:
 - {name: 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 49f2982f-1e8d-4b42-a0ee-9bc23487b5f0, udp: true}
 - {name: 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 49f2982f-1e8d-4b42-a0ee-9bc23487b5f0, udp: true}
 - {name: 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 49f2982f-1e8d-4b42-a0ee-9bc23487b5f0, udp: true}
-- {name: 台湾入口1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.127.10, headers: {Host: 100-107-251-190.s1.db-link01.top}}, udp: true}
-- {name: 台湾入口2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 2052, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.73.47, headers: {Host: 100-87-12-95.s3.cn-db.top}}, udp: true}
-- {name: 台湾入口1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 2086, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.101.174, headers: {Host: 100-216-128-6.s5.db-link01.top}}, udp: true}
-- {name: 台湾入口2-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 2052, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.75.149, headers: {Host: 100-198-48-226.s5.db-link02.top}}, udp: true}
-- {name: 台湾入口1-🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 8880, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.8.210, headers: {Host: 100-45-49-46.s1.cn-db.top}}, udp: true}
-- {name: 台湾入口2-🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.27.223, headers: {Host: 100-204-225-57.s3.db-link01.top}}, udp: true}
-- {name: 台湾入口1-🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.cn-db.top, port: 8880, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.243.233, headers: {Host: 100-64-109-123.s5.cn-db.top}}, udp: true}
-- {name: 台湾入口2-🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.cn-db.top, port: 2086, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.223.250, headers: {Host: 100-154-6-75.s5.cn-db.top}}, udp: true}
-- {name: 台湾入口1-🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.cn-db.top, port: 8880, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.164.158, headers: {Host: 100-119-193-238.s2.cn-db.top}}, udp: true}
-- {name: 台湾入口2-🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.db-link01.top, port: 2082, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.60.142, headers: {Host: 100-169-176-92.s1.db-link01.top}}, udp: true}
-- {name: '台湾入口1-🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.cn-db.top, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.230.142, headers: {Host: 100-82-33-13.s1.cn-db.top}}, udp: true}
-- {name: '台湾入口2-🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.db-link01.top, port: 2082, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.156.182, headers: {Host: 100-212-46-153.s1.db-link01.top}}, udp: true}
-- {name: 台湾入口1-🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.cn-db.top, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.34.1, headers: {Host: 100-241-146-22.s2.cn-db.top}}, udp: true}
-- {name: 台湾入口2-🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s1.db-link01.top, port: 2052, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.3.60, headers: {Host: 100-64-18-155.s1.db-link01.top}}, udp: true}
+- {name: 台湾入口1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 8080, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.152.23, headers: {Host: 100-5-10-54.s2.cn-db.top}}, udp: true}
+- {name: 台湾入口2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link01.top, port: 2052, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.118.210, headers: {Host: 100-256-65-182.s2.db-link01.top}}, udp: true}
+- {name: 台湾入口1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.cn-db.top, port: 2095, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.96.26, headers: {Host: 100-107-121-110.s5.cn-db.top}}, udp: true}
+- {name: 台湾入口2-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2082, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.196.247, headers: {Host: 100-183-56-47.s1.db-link01.top}}, udp: true}
+- {name: 台湾入口1-🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 2082, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.111.58, headers: {Host: 100-127-181-162.s1.cn-db.top}}, udp: true}
+- {name: 台湾入口2-🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 2082, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.181.112, headers: {Host: 100-53-87-127.s5.db-link02.top}}, udp: true}
+- {name: 台湾入口1-🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 8080, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.125.183, headers: {Host: 100-210-154-218.s4.cn-db.top}}, udp: true}
+- {name: 台湾入口2-🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2086, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.44.213, headers: {Host: 100-52-224-37.s2.cn-db.top}}, udp: true}
+- {name: 台湾入口1-🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.db-link01.top, port: 8080, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.88.190, headers: {Host: 100-112-16-68.s2.db-link01.top}}, udp: true}
+- {name: 台湾入口2-🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s5.db-link01.top, port: 8880, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.89.146, headers: {Host: 100-196-187-157.s5.db-link01.top}}, udp: true}
+- {name: '台湾入口1-🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s4.db-link02.top, port: 2082, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.60.22, headers: {Host: 100-89-98-147.s4.db-link02.top}}, udp: true}
+- {name: '台湾入口2-🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s5.cn-db.top, port: 8080, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.25.81, headers: {Host: 100-115-26-138.s5.cn-db.top}}, udp: true}
+- {name: 台湾入口1-🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s4.db-link02.top, port: 2095, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.251.136, headers: {Host: 100-66-96-71.s4.db-link02.top}}, udp: true}
+- {name: 台湾入口2-🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.db-link01.top, port: 2095, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.97.212, headers: {Host: 100-143-126-119.s2.db-link01.top}}, udp: true}
 - {name: 🇯🇵 日本-v6|02 - 悦云, server: greenchais2.668918.xyz, port: 22307, type: vmess, uuid: a8ca775f-cf21-4a10-846d-b9454939daeb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|04 - 悦云, server: greenip1.668918.xyz, port: 22306, type: vmess, uuid: a8ca775f-cf21-4a10-846d-b9454939daeb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|05 - 悦云, server: greenip2.668918.xyz, port: 22307, type: vmess, uuid: a8ca775f-cf21-4a10-846d-b9454939daeb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -1338,63 +1246,27 @@ proxies:
 - {name: 🇮🇪 爱尔兰-都柏林 - 神盾, server: 107.175.187.181, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: c8e3c68f-c75b-4819-bfd4-68aed183a393, udp: true}
 - {name: '🇺🇸 [vmess]VM美国US01 - 新谷歌--好链接', server: vm1.zongse001.top, port: 42201, type: vmess, uuid: 3a8a2f72-9da8-41aa-995d-fc050b64fb8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vmess]VM香港HK - 新谷歌--好链接', server: vm2.zongse001.top, port: 42202, type: vmess, uuid: 3a8a2f72-9da8-41aa-995d-fc050b64fb8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: a11dc97c-21ee-3375-b6e2-dd3dc8dd4c1d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: e97d619f-1849-34d2-8fbe-17f93ea2a1d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 65b3b6bf-7de0-4dd0-a8a0-3fdbc8c91cd1, udp: true}
-- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 65b3b6bf-7de0-4dd0-a8a0-3fdbc8c91cd1, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 18be7201-c0b3-4104-93f9-c0fdc63d2189, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 18be7201-c0b3-4104-93f9-c0fdc63d2189, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 18be7201-c0b3-4104-93f9-c0fdc63d2189, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 18be7201-c0b3-4104-93f9-c0fdc63d2189, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 18be7201-c0b3-4104-93f9-c0fdc63d2189, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇮🇳 [电信专线] 印度 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59069, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇮🇳 [联通专线] 印度 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50369, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇮🇳 [移动专线] 印度 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 54274, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇧🇷 [电信专线] 巴西 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59469, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇧🇷 [联通专线] 巴西 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57609, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇧🇷 [移动专线] 巴西 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 53131, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇻🇳 [电信专线] 越南 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52384, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇻🇳 [联通专线] 越南 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55774, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇻🇳 [移动专线] 越南 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58537, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇩🇪 [电信专线] 德国 xA区 - 南北云', server: zf-ct.bgblwow.org, port: 54881, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇩🇪 [联通专线] 德国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 51577, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇩🇪 [移动专线] 德国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58056, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇰🇷 [电信专线] 韩国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 57459, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇰🇷 [联通专线] 韩国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55064, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇰🇷 [移动专线] 韩国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55782, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇫🇷 [电信专线] 法国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59720, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇫🇷 [联通专线] 法国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50748, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: '🇫🇷 [移动专线] 法国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59741, type: ss, cipher: chacha20-ietf-poly1305, password: 66f0c410-59ea-4983-bb64-7746531bf670, udp: true}
-- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 38405aa7-db3d-3bd2-9d55-8adc7e26aa72, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 38405aa7-db3d-3bd2-9d55-8adc7e26aa72, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: b2217108-9289-39c8-8668-e8e0ee37a53c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: abfd2983-cd1b-3796-b506-5c5614d48b8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 17a0fbc7-3e65-4207-bb5b-281251a263bd, udp: true}
+- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 17a0fbc7-3e65-4207-bb5b-281251a263bd, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: b21c920c-96a0-4983-ab73-179ef4a6355c, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: b21c920c-96a0-4983-ab73-179ef4a6355c, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: b21c920c-96a0-4983-ab73-179ef4a6355c, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: b21c920c-96a0-4983-ab73-179ef4a6355c, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: b21c920c-96a0-4983-ab73-179ef4a6355c, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: a4ce5dc9-820a-38f4-a581-356e27235c79, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: a4ce5dc9-820a-38f4-a581-356e27235c79, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
