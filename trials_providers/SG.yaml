@@ -12,14 +12,14 @@ proxies:
 - &id009 {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 74c46c60-f740-4c55-9010-64aa47509682, udp: true}
 - &id010 {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 74c46c60-f740-4c55-9010-64aa47509682, udp: true}
 - &id011 {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 74c46c60-f740-4c55-9010-64aa47509682, udp: true}
-- {name: 🇸🇬 新加坡①一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18810, type: vmess, uuid: fd11bbd7-2907-36b2-ba37-d92300816743, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
-- {name: 🇸🇬 新加坡②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18829, type: vmess, uuid: fd11bbd7-2907-36b2-ba37-d92300816743, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
+- {name: 🇸🇬 新加坡①一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18810, type: vmess, uuid: 84fce11a-536b-3a60-b891-f30540c1f76d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
+- {name: 🇸🇬 新加坡②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18829, type: vmess, uuid: 84fce11a-536b-3a60-b891-f30540c1f76d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
 - &id004 {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 62a5c35f-ec76-44a8-85d4-c5b3d39bb5c2, udp: true}
 - &id005 {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 62a5c35f-ec76-44a8-85d4-c5b3d39bb5c2, udp: true}
 - *id001
 - *id002
 - *id003
-- &id012 {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: c9fe4def-76a0-3ace-9a63-7a4c059cfb78, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id012 {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 2ef7b071-49e9-3b37-9880-8f9436247a61, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id004
 - *id005
 - *id001
@@ -33,9 +33,9 @@ proxies:
 - *id011
 - *id004
 - *id005
-- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: e21d53b0-4ea8-47e7-815f-dddad377e4a9, udp: true}
-- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: e21d53b0-4ea8-47e7-815f-dddad377e4a9, udp: true}
-- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: e21d53b0-4ea8-47e7-815f-dddad377e4a9, udp: true}
+- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 1cf0010f-4feb-4e05-999b-150429e75d62, udp: true}
+- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 1cf0010f-4feb-4e05-999b-150429e75d62, udp: true}
+- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 1cf0010f-4feb-4e05-999b-150429e75d62, udp: true}
 - *id001
 - *id002
 - *id003
