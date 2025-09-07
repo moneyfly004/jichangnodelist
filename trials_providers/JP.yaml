@@ -1,6 +1,8 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇯🇵 日本节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 16540, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
+- {name: 🇯🇵 日本节点-5G-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 39030, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
 - &id001 {name: 🇯🇵 JP日本-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 468e05ae-58e0-45ac-b636-eeaa12b644a0, udp: true}
 - &id002 {name: 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 468e05ae-58e0-45ac-b636-eeaa12b644a0, udp: true}
 - &id007 {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 53b7ddc8-a4ea-4f6e-a993-cafc2ab7b0f8, udp: true}
@@ -36,8 +38,8 @@ proxies:
 - *id004
 - *id005
 - *id006
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 98a2167f-9f4f-4ab1-af73-364379aad360, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 98a2167f-9f4f-4ab1-af73-364379aad360, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 98a2167f-9f4f-4ab1-af73-364379aad360, udp: true}
+- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 1fa76dd6-1136-431a-bea7-aa8418c2416a, udp: true}
+- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 1fa76dd6-1136-431a-bea7-aa8418c2416a, udp: true}
+- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 1fa76dd6-1136-431a-bea7-aa8418c2416a, udp: true}
 - *id001
 - *id002
