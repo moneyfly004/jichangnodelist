@@ -1,9 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 32975, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇭🇰 香港节点-5G-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 15815, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇭🇰 香港节点-10G-03 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 22224, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
 - &id001 {name: 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19523, type: ss, cipher: chacha20-ietf-poly1305, password: 654a2616-2e3a-4758-a894-9c000f54b708, udp: true}
 - &id002 {name: 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19528, type: ss, cipher: chacha20-ietf-poly1305, password: 654a2616-2e3a-4758-a894-9c000f54b708, udp: true}
 - &id003 {name: 🇭🇰 HK香港1-PQ - 脉冲云, server: gyjd.yy9866.com, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: 654a2616-2e3a-4758-a894-9c000f54b708, udp: true}
@@ -24,12 +21,12 @@ proxies:
 - &id024 {name: 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: ff9da242-7b18-43fe-8276-cd125a407394, udp: true}
 - &id025 {name: 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: ff9da242-7b18-43fe-8276-cd125a407394, udp: true}
 - &id026 {name: 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: ff9da242-7b18-43fe-8276-cd125a407394, udp: true}
-- {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: 80c14bc4-b8f5-4321-a4a8-2326eb105d92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: 80c14bc4-b8f5-4321-a4a8-2326eb105d92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: 80c14bc4-b8f5-4321-a4a8-2326eb105d92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|08 - 悦云, server: greenhk2.616626.xyz, port: 10507, type: vmess, uuid: 80c14bc4-b8f5-4321-a4a8-2326eb105d92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v4|02 - 悦云, server: hkvm4.656888.xyz, port: 30026, type: trojan, password: 80c14bc4-b8f5-4321-a4a8-2326eb105d92, sni: hkvm4.656888.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03 - 悦云, server: hytro.91ai.de, port: 10022, type: trojan, password: 80c14bc4-b8f5-4321-a4a8-2326eb105d92, sni: hytro.91ai.de, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: 9e688c08-6d65-43cb-b290-aa2acf4d81d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: 9e688c08-6d65-43cb-b290-aa2acf4d81d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: 9e688c08-6d65-43cb-b290-aa2acf4d81d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v6|08 - 悦云, server: greenhk2.616626.xyz, port: 10507, type: vmess, uuid: 9e688c08-6d65-43cb-b290-aa2acf4d81d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v4|02 - 悦云, server: hkvm4.656888.xyz, port: 30026, type: trojan, password: 9e688c08-6d65-43cb-b290-aa2acf4d81d4, sni: hkvm4.656888.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港03 - 悦云, server: hytro.91ai.de, port: 10022, type: trojan, password: 9e688c08-6d65-43cb-b290-aa2acf4d81d4, sni: hytro.91ai.de, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18850, type: vmess, uuid: 561fd2b6-c220-3f37-8fa6-fb2110b8529a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
 - {name: 🇹🇼 台湾台北原生一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18856, type: vmess, uuid: 561fd2b6-c220-3f37-8fa6-fb2110b8529a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
 - {name: 🇭🇰 香港②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18820, type: vmess, uuid: 561fd2b6-c220-3f37-8fa6-fb2110b8529a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
@@ -66,10 +63,10 @@ proxies:
 - *id006
 - *id007
 - *id008
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 22d40db1-3db7-496d-bb23-f34d7b65d357, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 22d40db1-3db7-496d-bb23-f34d7b65d357, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 22d40db1-3db7-496d-bb23-f34d7b65d357, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 22d40db1-3db7-496d-bb23-f34d7b65d357, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 12e6955c-9386-4142-8fad-8086ecfef5dc, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 12e6955c-9386-4142-8fad-8086ecfef5dc, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 12e6955c-9386-4142-8fad-8086ecfef5dc, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 12e6955c-9386-4142-8fad-8086ecfef5dc, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
 - *id015
 - *id016
 - *id017
@@ -82,12 +79,22 @@ proxies:
 - *id024
 - *id025
 - *id026
+- {name: 🇭🇰 HK02 12小时联通试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 32691, type: ss, cipher: aes-128-gcm, password: 18a38a10-8ccf-4012-931b-a5f4d3b27a16, udp: true}
 - *id009
 - *id010
 - *id011
 - *id012
 - *id013
 - *id014
+- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
+- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
+- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
+- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
+- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
+- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
+- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
+- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
+- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee289df-e90c-4f62-a666-87d37d14bf02, udp: true}
 - *id001
 - *id002
 - *id003
