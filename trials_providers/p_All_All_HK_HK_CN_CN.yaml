@@ -7,6 +7,4 @@ proxies:
 - {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: bbb6269d-6863-402f-9cb9-f01a4e50af3c, udp: true}
 - {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: bbb6269d-6863-402f-9cb9-f01a4e50af3c, udp: true}
 - {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: bbb6269d-6863-402f-9cb9-f01a4e50af3c, udp: true}
-- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: fa43272a-acfc-459a-a814-db8df0aa44b4, udp: true}
-- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: fa43272a-acfc-459a-a814-db8df0aa44b4, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: a140de4b-9d80-3aec-ab75-3abc525f4916, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
