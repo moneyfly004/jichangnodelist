@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: a932b294-30ae-4261-8ccd-20e2fa367e21, udp: true}
-- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: a932b294-30ae-4261-8ccd-20e2fa367e21, udp: true}
-- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: a932b294-30ae-4261-8ccd-20e2fa367e21, udp: true}
+- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: a5368c46-d340-4e38-ba79-33a5f7cf8866, udp: true}
+- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: a5368c46-d340-4e38-ba79-33a5f7cf8866, udp: true}
+- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: a5368c46-d340-4e38-ba79-33a5f7cf8866, udp: true}
