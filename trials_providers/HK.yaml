@@ -1,6 +1,9 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇭🇰 香港节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 32975, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
+- {name: 🇭🇰 香港节点-5G-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 15815, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
+- {name: 🇭🇰 香港节点-10G-03 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 22224, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
 - &id001 {name: 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19523, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2c1bd4-d2ab-4417-8803-7df21443d1b0, udp: true}
 - &id002 {name: 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19528, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2c1bd4-d2ab-4417-8803-7df21443d1b0, udp: true}
 - &id003 {name: 🇭🇰 HK香港1-PQ - 脉冲云, server: gyjd.yy9866.com, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2c1bd4-d2ab-4417-8803-7df21443d1b0, udp: true}
@@ -47,15 +50,15 @@ proxies:
 - *id013
 - *id014
 - {name: 🇭🇰 HK02 12小时联通试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 32691, type: ss, cipher: aes-128-gcm, password: 18a38a10-8ccf-4012-931b-a5f4d3b27a16, udp: true}
-- {name: 🇭🇰 香港 01 - Vowa, server: 120.232.16.114, port: 26183, type: ss, cipher: aes-128-gcm, password: 42f1295c-fcf9-47b3-a825-01b3916f493b, udp: true}
-- {name: 🇭🇰 香港 02 - Vowa, server: 120.232.16.114, port: 26184, type: ss, cipher: aes-128-gcm, password: 42f1295c-fcf9-47b3-a825-01b3916f493b, udp: true}
-- {name: 🇭🇰 香港 03 - Vowa, server: 183.240.139.229, port: 26184, type: ss, cipher: aes-128-gcm, password: 42f1295c-fcf9-47b3-a825-01b3916f493b, udp: true}
-- {name: 🇭🇰 香港 04 - Vowa, server: 183.240.139.229, port: 23357, type: ss, cipher: aes-128-gcm, password: 42f1295c-fcf9-47b3-a825-01b3916f493b, udp: true}
+- {name: 🇭🇰 香港 01 - Vowa, server: 120.232.16.114, port: 26183, type: ss, cipher: aes-128-gcm, password: 36be555c-7f81-40f4-b0d4-db0739c452f0, udp: true}
+- {name: 🇭🇰 香港 02 - Vowa, server: 120.232.16.114, port: 26184, type: ss, cipher: aes-128-gcm, password: 36be555c-7f81-40f4-b0d4-db0739c452f0, udp: true}
+- {name: 🇭🇰 香港 03 - Vowa, server: 183.240.139.229, port: 26184, type: ss, cipher: aes-128-gcm, password: 36be555c-7f81-40f4-b0d4-db0739c452f0, udp: true}
+- {name: 🇭🇰 香港 04 - Vowa, server: 183.240.139.229, port: 23357, type: ss, cipher: aes-128-gcm, password: 36be555c-7f81-40f4-b0d4-db0739c452f0, udp: true}
 - *id007
 - *id008
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: b6a9b3b7-239e-4aec-83e1-b84c1a4fc07c, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: b6a9b3b7-239e-4aec-83e1-b84c1a4fc07c, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: b6a9b3b7-239e-4aec-83e1-b84c1a4fc07c, udp: true}
+- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: e8afed25-a8a0-4d77-a40f-5a881ec0b89a, udp: true}
+- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: e8afed25-a8a0-4d77-a40f-5a881ec0b89a, udp: true}
+- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: e8afed25-a8a0-4d77-a40f-5a881ec0b89a, udp: true}
 - *id001
 - *id002
 - *id003

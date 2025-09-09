@@ -57,10 +57,10 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇭🇰 香港 01 - Vowa, server: 120.232.16.114, port: 26183, type: ss, cipher: aes-128-gcm, password: 42f1295c-fcf9-47b3-a825-01b3916f493b, udp: true}
-- {name: 🇭🇰 香港 02 - Vowa, server: 120.232.16.114, port: 26184, type: ss, cipher: aes-128-gcm, password: 42f1295c-fcf9-47b3-a825-01b3916f493b, udp: true}
-- {name: 🇭🇰 香港 03 - Vowa, server: 183.240.139.229, port: 26184, type: ss, cipher: aes-128-gcm, password: 42f1295c-fcf9-47b3-a825-01b3916f493b, udp: true}
-- {name: 🇭🇰 香港 04 - Vowa, server: 183.240.139.229, port: 23357, type: ss, cipher: aes-128-gcm, password: 42f1295c-fcf9-47b3-a825-01b3916f493b, udp: true}
+- {name: 🇭🇰 香港 01 - Vowa, server: 120.232.16.114, port: 26183, type: ss, cipher: aes-128-gcm, password: 36be555c-7f81-40f4-b0d4-db0739c452f0, udp: true}
+- {name: 🇭🇰 香港 02 - Vowa, server: 120.232.16.114, port: 26184, type: ss, cipher: aes-128-gcm, password: 36be555c-7f81-40f4-b0d4-db0739c452f0, udp: true}
+- {name: 🇭🇰 香港 03 - Vowa, server: 183.240.139.229, port: 26184, type: ss, cipher: aes-128-gcm, password: 36be555c-7f81-40f4-b0d4-db0739c452f0, udp: true}
+- {name: 🇭🇰 香港 04 - Vowa, server: 183.240.139.229, port: 23357, type: ss, cipher: aes-128-gcm, password: 36be555c-7f81-40f4-b0d4-db0739c452f0, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
