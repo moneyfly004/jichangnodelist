@@ -30,7 +30,7 @@ proxies:
 - {name: 🇦🇷 阿根廷一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18853, type: vmess, uuid: 56f54d42-a10d-3846-8123-a707845e53b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
 - {name: 🇦🇷 阿根廷一优化① - tuboshu.io|土拨鼠.co, server: tbsyd.tbstbs.live, port: 18853, type: vmess, uuid: 56f54d42-a10d-3846-8123-a707845e53b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tbsyd.tbstbs.live}}, udp: true}
 - {name: 🇮🇪 爱尔兰-都柏林 - 神盾, server: 107.175.187.181, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: 6f7818ad-61d4-450a-841a-af7c4d50e918, udp: true}
-- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 093851ea-7c75-492d-b30b-4c34ba37a81f, udp: true}
-- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 093851ea-7c75-492d-b30b-4c34ba37a81f, udp: true}
-- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 898d1d3b-2a62-3847-a29f-d2543b7e5998, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 898d1d3b-2a62-3847-a29f-d2543b7e5998, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: e1917b90-86c4-44f2-aa33-4a07bc4e2ab1, udp: true}
+- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: e1917b90-86c4-44f2-aa33-4a07bc4e2ab1, udp: true}
+- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 81e2dc19-0533-3182-8034-434784641bcd, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 81e2dc19-0533-3182-8034-434784641bcd, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
