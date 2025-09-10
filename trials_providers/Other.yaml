@@ -129,9 +129,9 @@ proxies:
 - *id031
 - *id032
 - *id033
-- &id034 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: adfa409b-5ef4-38aa-b4f6-03461de55f2f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 41eb31d1-7ee4-42c8-91a9-a694f3996ce1, udp: true}
-- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 41eb31d1-7ee4-42c8-91a9-a694f3996ce1, udp: true}
+- &id034 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 0b4fc0c5-0975-3e48-a801-79b3d60ad63c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 9f6b3b7f-0651-4e2b-b324-9c36ada14cc9, udp: true}
+- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 9f6b3b7f-0651-4e2b-b324-9c36ada14cc9, udp: true}
 - *id001
 - *id002
 - *id003
@@ -224,8 +224,8 @@ proxies:
 - *id011
 - *id012
 - *id013
-- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: c86864c2-43c8-36db-ac22-b0a51e7815f5, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: c86864c2-43c8-36db-ac22-b0a51e7815f5, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 69d6ebd3-b1c4-3977-931e-1de366fc10d9, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 69d6ebd3-b1c4-3977-931e-1de366fc10d9, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
 - *id061
 - *id062
 - *id063
