@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 2f7d0ae0-4edb-47a8-aad0-d6c3c1a5d889, udp: true}
-- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 2f7d0ae0-4edb-47a8-aad0-d6c3c1a5d889, udp: true}
+- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: f01260c9-a004-4c01-9a4d-3afa461f5ed0, udp: true}
+- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: f01260c9-a004-4c01-9a4d-3afa461f5ed0, udp: true}
