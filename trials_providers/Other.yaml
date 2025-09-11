@@ -129,7 +129,9 @@ proxies:
 - *id031
 - *id032
 - *id033
-- &id034 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 75509c25-7a21-31b1-9a93-dd455c30ba0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id034 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: ec860e07-2999-3075-bd04-2b850365dfb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 8bfb7185-9bdf-4eac-9863-2b4bcb32d8ba, udp: true}
+- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 8bfb7185-9bdf-4eac-9863-2b4bcb32d8ba, udp: true}
 - *id001
 - *id002
 - *id003
@@ -222,8 +224,8 @@ proxies:
 - *id011
 - *id012
 - *id013
-- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 6440c563-a5e5-3ea9-94f5-3b13cd338043, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 6440c563-a5e5-3ea9-94f5-3b13cd338043, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 91d73092-7ad3-330c-a50b-c7e7e09c32f2, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 91d73092-7ad3-330c-a50b-c7e7e09c32f2, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
 - *id061
 - *id062
 - *id063
