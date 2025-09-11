@@ -21,4 +21,4 @@ proxies:
 - {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: eff031ef-48bb-4f19-b23e-0d7ee5e492e4, udp: true}
 - {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: eff031ef-48bb-4f19-b23e-0d7ee5e492e4, udp: true}
 - {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: eff031ef-48bb-4f19-b23e-0d7ee5e492e4, udp: true}
-- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: ec860e07-2999-3075-bd04-2b850365dfb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 8f371408-e0ca-3ea8-a0a9-47865966ba07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
