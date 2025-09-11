@@ -8,5 +8,3 @@ proxies:
 - {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 7adea634-f05a-4497-9357-6d3e36a57ac5, udp: true}
 - {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 7adea634-f05a-4497-9357-6d3e36a57ac5, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: d551edd1-8826-3398-bf38-6f6640213618, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 1a85f1f4-3fe2-4d1e-978b-ce1974aa09ae, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 1a85f1f4-3fe2-4d1e-978b-ce1974aa09ae, udp: true}
