@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 8d490291-71f0-40aa-af29-28e4c51b16bb, udp: true}
-- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 8d490291-71f0-40aa-af29-28e4c51b16bb, udp: true}
-- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 8d490291-71f0-40aa-af29-28e4c51b16bb, udp: true}
+- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 99d35099-70cd-4a98-9bc2-e5fef44938cc, udp: true}
+- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 99d35099-70cd-4a98-9bc2-e5fef44938cc, udp: true}
+- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 99d35099-70cd-4a98-9bc2-e5fef44938cc, udp: true}
