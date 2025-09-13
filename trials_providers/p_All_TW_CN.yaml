@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18850, type: vmess, uuid: 19fc7aba-49e2-34c5-a007-fe6c9a228907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
-- {name: 🇹🇼 台湾台北原生一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18856, type: vmess, uuid: 19fc7aba-49e2-34c5-a007-fe6c9a228907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 47449ee7-d15d-47eb-90ea-9c65c2fb3393, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 47449ee7-d15d-47eb-90ea-9c65c2fb3393, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 47449ee7-d15d-47eb-90ea-9c65c2fb3393, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 7de498b0-0e87-49ee-8603-3469e1f3d0d0, udp: true}
-- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 7de498b0-0e87-49ee-8603-3469e1f3d0d0, udp: true}
-- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 7de498b0-0e87-49ee-8603-3469e1f3d0d0, udp: true}
+- {name: 🇹🇼 台湾②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18850, type: vmess, uuid: a5b7131e-42f0-3949-807f-c65a8f9be0e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
+- {name: 🇹🇼 台湾台北原生一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18856, type: vmess, uuid: a5b7131e-42f0-3949-807f-c65a8f9be0e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
+- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
+- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
