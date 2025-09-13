@@ -54,7 +54,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: fd86626a-36bf-3fe1-a7fa-ee57f411c2e5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 19d630f2-a495-3ca9-83a8-079c2e52aa7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

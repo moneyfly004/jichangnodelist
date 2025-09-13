@@ -92,20 +92,20 @@ proxies:
 - &id113 {name: 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 910493c4-1f38-4fe9-8def-019479ffceba, udp: true}
 - &id114 {name: 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 910493c4-1f38-4fe9-8def-019479ffceba, udp: true}
 - &id115 {name: 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 910493c4-1f38-4fe9-8def-019479ffceba, udp: true}
-- {name: CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=765f4684b3afb54b7652254f36197252', headers: {Host: 765f4684b3afb54b7652254f36197252.houge.ggff.net}}, udp: true}
-- {name: CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: f04a11ec46f4c8e8710cc3258d938e46.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=f04a11ec46f4c8e8710cc3258d938e46', headers: {Host: f04a11ec46f4c8e8710cc3258d938e46.houge.ggff.net}}, udp: true}
-- {name: CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=27411b70ab0c80e6abfbe20f37729ab7', headers: {Host: 27411b70ab0c80e6abfbe20f37729ab7.houge.ggff.net}}, udp: true}
-- {name: CF优选2-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 8640286d9dadbba12eb904ef72f8503c.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=8640286d9dadbba12eb904ef72f8503c', headers: {Host: 8640286d9dadbba12eb904ef72f8503c.houge.ggff.net}}, udp: true}
-- {name: CF优选1-🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=a593cee55cdd80e4103a46a49f69ff17', headers: {Host: a593cee55cdd80e4103a46a49f69ff17.houge.ggff.net}}, udp: true}
-- {name: CF优选2-🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 36c2de667ee46451395470de2879b80d.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=36c2de667ee46451395470de2879b80d', headers: {Host: 36c2de667ee46451395470de2879b80d.houge.ggff.net}}, udp: true}
-- {name: CF优选1-🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=ffdf760e1682e048b89b2303584b9e5a', headers: {Host: ffdf760e1682e048b89b2303584b9e5a.houge.ggff.net}}, udp: true}
-- {name: CF优选2-🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 871545c32f40d56035f0050d28730f6f.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=871545c32f40d56035f0050d28730f6f', headers: {Host: 871545c32f40d56035f0050d28730f6f.houge.ggff.net}}, udp: true}
-- {name: CF优选1-🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=5486b8e9882785a73abc33bd17ef4c65', headers: {Host: 5486b8e9882785a73abc33bd17ef4c65.houge.ggff.net}}, udp: true}
-- {name: CF优选2-🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 5cc8ec025800eeea2538859c0a941b9d.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=5cc8ec025800eeea2538859c0a941b9d', headers: {Host: 5cc8ec025800eeea2538859c0a941b9d.houge.ggff.net}}, udp: true}
-- {name: 'CF优选1-🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=8c854a64de252bd22020de726df1899c', headers: {Host: 8c854a64de252bd22020de726df1899c.houge.ggff.net}}, udp: true}
-- {name: 'CF优选2-🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 6b18b49773024e137a141ec45f4499e8.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=6b18b49773024e137a141ec45f4499e8', headers: {Host: 6b18b49773024e137a141ec45f4499e8.houge.ggff.net}}, udp: true}
-- {name: CF优选1-🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=3679138643fe61b848748d282d8a8f02', headers: {Host: 3679138643fe61b848748d282d8a8f02.houge.ggff.net}}, udp: true}
-- {name: CF优选2-🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a85941fec0a6f37ccddd83beddba4401.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=a85941fec0a6f37ccddd83beddba4401', headers: {Host: a85941fec0a6f37ccddd83beddba4401.houge.ggff.net}}, udp: true}
+- {name: CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=8eb975380b6ba2d7089ccbff2c716585', headers: {Host: 8eb975380b6ba2d7089ccbff2c716585.houge.ggff.net}}, udp: true}
+- {name: CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 1ccfc95f22e68e3e0a77fc492d814c92.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=1ccfc95f22e68e3e0a77fc492d814c92', headers: {Host: 1ccfc95f22e68e3e0a77fc492d814c92.houge.ggff.net}}, udp: true}
+- {name: CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=4216c3a3679c6d18441d2348aa211c05', headers: {Host: 4216c3a3679c6d18441d2348aa211c05.houge.ggff.net}}, udp: true}
+- {name: CF优选2-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a0e23c72e40f45ec922c5ceaa71c71e7.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=a0e23c72e40f45ec922c5ceaa71c71e7', headers: {Host: a0e23c72e40f45ec922c5ceaa71c71e7.houge.ggff.net}}, udp: true}
+- {name: CF优选1-🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=0a2a3d0d6887eff45721d41aef71cb66', headers: {Host: 0a2a3d0d6887eff45721d41aef71cb66.houge.ggff.net}}, udp: true}
+- {name: CF优选2-🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ede759b1088a952b37ae08e9daa3ac91.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=ede759b1088a952b37ae08e9daa3ac91', headers: {Host: ede759b1088a952b37ae08e9daa3ac91.houge.ggff.net}}, udp: true}
+- {name: CF优选1-🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=c7517591d2162ab0573dab1ed9a9f1c0', headers: {Host: c7517591d2162ab0573dab1ed9a9f1c0.houge.ggff.net}}, udp: true}
+- {name: CF优选2-🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 80c73544b5d657d07924cfcd8e9cf7a8.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=80c73544b5d657d07924cfcd8e9cf7a8', headers: {Host: 80c73544b5d657d07924cfcd8e9cf7a8.houge.ggff.net}}, udp: true}
+- {name: CF优选1-🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=6af53d985a2227f98ded731643488d8b', headers: {Host: 6af53d985a2227f98ded731643488d8b.houge.ggff.net}}, udp: true}
+- {name: CF优选2-🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: b0c1cd6f3a9bd6e4aaf16d8fdccfa32c.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=b0c1cd6f3a9bd6e4aaf16d8fdccfa32c', headers: {Host: b0c1cd6f3a9bd6e4aaf16d8fdccfa32c.houge.ggff.net}}, udp: true}
+- {name: 'CF优选1-🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=abcd01c8b723dea742c2e3a0517ce1a5', headers: {Host: abcd01c8b723dea742c2e3a0517ce1a5.houge.ggff.net}}, udp: true}
+- {name: 'CF优选2-🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 83d317a56c9affe71bd7b7957c0e65ba.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=83d317a56c9affe71bd7b7957c0e65ba', headers: {Host: 83d317a56c9affe71bd7b7957c0e65ba.houge.ggff.net}}, udp: true}
+- {name: CF优选1-🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/dabai.in?=0238aabf7134f5049b62db2bf75d2dd4', headers: {Host: 0238aabf7134f5049b62db2bf75d2dd4.houge.ggff.net}}, udp: true}
+- {name: CF优选2-🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.db-link.in, port: 443, type: vmess, uuid: 961cf4f6-1653-3dee-bc43-14c91b16c8c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a39b28a1e6d75d84174171d65f770392.houge.ggff.net, network: ws, ws-opts: {path: '/dabai.in?=a39b28a1e6d75d84174171d65f770392', headers: {Host: a39b28a1e6d75d84174171d65f770392.houge.ggff.net}}, udp: true}
 - {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: c07087db-14e1-43d3-b3a7-c26d606143db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|02 - 悦云, server: greenchais2.668918.xyz, port: 22307, type: vmess, uuid: c07087db-14e1-43d3-b3a7-c26d606143db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|04 - 悦云, server: greenip1.668918.xyz, port: 22306, type: vmess, uuid: c07087db-14e1-43d3-b3a7-c26d606143db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -227,17 +227,17 @@ proxies:
 - *id026
 - *id027
 - *id028
-- &id116 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id117 {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id118 {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id119 {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id120 {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id121 {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id122 {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id123 {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id124 {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id125 {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id126 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 8899deab-5dc2-35e8-a363-ad69e6f8f0e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 564eb60f-c46e-3c2e-a84c-323cf3c7ab3e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id029
 - *id030
 - *id031
@@ -275,8 +275,8 @@ proxies:
 - *id063
 - *id064
 - &id065 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 08114732-12bb-371d-8310-b5365d5434eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 2fae86a1-caf8-4f82-a199-406985918729, udp: true}
-- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 2fae86a1-caf8-4f82-a199-406985918729, udp: true}
+- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: b1b729ff-b027-4190-9033-5c1d04a8359b, udp: true}
+- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: b1b729ff-b027-4190-9033-5c1d04a8359b, udp: true}
 - *id001
 - *id002
 - *id003
@@ -306,11 +306,11 @@ proxies:
 - *id027
 - *id028
 - *id065
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 1612f6bc-bd7f-4417-b9dd-674bc83ed98d, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 1612f6bc-bd7f-4417-b9dd-674bc83ed98d, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 1612f6bc-bd7f-4417-b9dd-674bc83ed98d, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 1612f6bc-bd7f-4417-b9dd-674bc83ed98d, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 1612f6bc-bd7f-4417-b9dd-674bc83ed98d, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
 - *id065
 - *id066
 - *id067
@@ -400,42 +400,6 @@ proxies:
 - *id062
 - *id063
 - *id064
-- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇮🇳 [电信专线] 印度 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59069, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇮🇳 [联通专线] 印度 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50369, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇮🇳 [移动专线] 印度 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 54274, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇧🇷 [电信专线] 巴西 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59469, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇧🇷 [联通专线] 巴西 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57609, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇧🇷 [移动专线] 巴西 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 53131, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇻🇳 [电信专线] 越南 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52384, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇻🇳 [联通专线] 越南 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55774, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇻🇳 [移动专线] 越南 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58537, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇩🇪 [电信专线] 德国 xA区 - 南北云', server: zf-ct.bgblwow.org, port: 54881, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇩🇪 [联通专线] 德国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 51577, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇩🇪 [移动专线] 德国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58056, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇰🇷 [电信专线] 韩国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 57459, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇰🇷 [联通专线] 韩国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55064, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇰🇷 [移动专线] 韩国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55782, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇫🇷 [电信专线] 法国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59720, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇫🇷 [联通专线] 法国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50748, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇫🇷 [移动专线] 法国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59741, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
-- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 7fde4c48-ba6c-4ff4-932e-d95637c15282, udp: true}
 - *id001
 - *id002
 - *id003
@@ -464,16 +428,5 @@ proxies:
 - *id026
 - *id027
 - *id028
-- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 6dd060ee-333a-3e96-8181-2516bbb1342f, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 6dd060ee-333a-3e96-8181-2516bbb1342f, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
-- *id116
-- *id117
-- *id118
-- *id119
-- *id120
-- *id121
-- *id122
-- *id123
-- *id124
-- *id125
-- *id126
+- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: be3101c7-adaf-3653-a302-9576ebbe2bfc, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: be3101c7-adaf-3653-a302-9576ebbe2bfc, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}

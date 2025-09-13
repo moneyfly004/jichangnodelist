@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 8aa97a78-9b07-4836-820e-6c495ef93452, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 1612f6bc-bd7f-4417-b9dd-674bc83ed98d, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 1612f6bc-bd7f-4417-b9dd-674bc83ed98d, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 1612f6bc-bd7f-4417-b9dd-674bc83ed98d, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
