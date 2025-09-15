@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 947268f2-6414-4c47-a368-e9c9501f8cf2, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 947268f2-6414-4c47-a368-e9c9501f8cf2, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 947268f2-6414-4c47-a368-e9c9501f8cf2, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 947268f2-6414-4c47-a368-e9c9501f8cf2, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 947268f2-6414-4c47-a368-e9c9501f8cf2, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 947268f2-6414-4c47-a368-e9c9501f8cf2, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b53d756a-6782-4aad-bebf-9e96b78fa563, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b53d756a-6782-4aad-bebf-9e96b78fa563, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b53d756a-6782-4aad-bebf-9e96b78fa563, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b53d756a-6782-4aad-bebf-9e96b78fa563, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b53d756a-6782-4aad-bebf-9e96b78fa563, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b53d756a-6782-4aad-bebf-9e96b78fa563, udp: true}
