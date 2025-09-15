@@ -5,7 +5,3 @@ proxies:
 - {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 8f8089b6-858a-44c3-8a40-66da7abfc50f, udp: true}
 - {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 8f8089b6-858a-44c3-8a40-66da7abfc50f, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: c54f4776-30a2-3a2c-a741-091d3cc8c4ba, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 120cd9cb-a296-44db-9409-0b789c97620a, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 120cd9cb-a296-44db-9409-0b789c97620a, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 120cd9cb-a296-44db-9409-0b789c97620a, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 120cd9cb-a296-44db-9409-0b789c97620a, udp: true}

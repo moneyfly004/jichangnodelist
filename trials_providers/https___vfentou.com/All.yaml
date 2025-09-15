@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: a4a6ba1c-3588-3259-b052-f0992e4764ac, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: a4a6ba1c-3588-3259-b052-f0992e4764ac, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 31f68825-3aba-326e-a71f-38158f5b987b, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 31f68825-3aba-326e-a71f-38158f5b987b, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
