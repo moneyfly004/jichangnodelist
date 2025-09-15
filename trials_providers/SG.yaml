@@ -16,8 +16,8 @@ proxies:
 - &id011 {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 37fa0f8b-d966-45c9-a370-322606988816, udp: true}
 - {name: 🇸🇬 新加坡①一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18810, type: vmess, uuid: 86f24cc3-f1e5-3f48-bc3f-08f14532c826, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
 - {name: 🇸🇬 新加坡②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18829, type: vmess, uuid: 86f24cc3-f1e5-3f48-bc3f-08f14532c826, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
-- &id004 {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 2a2e0a1c-8adf-4aa1-a4a5-4f461cf6507d, udp: true}
-- &id005 {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 2a2e0a1c-8adf-4aa1-a4a5-4f461cf6507d, udp: true}
+- &id004 {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: b553284c-dd73-4c98-81ff-0e3b2bc74f82, udp: true}
+- &id005 {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: b553284c-dd73-4c98-81ff-0e3b2bc74f82, udp: true}
 - *id001
 - *id002
 - *id003
@@ -33,6 +33,11 @@ proxies:
 - *id009
 - *id010
 - *id011
+- *id004
+- *id005
+- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 76c4b6da-10bf-4813-9b64-2df71add35bb, udp: true}
+- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 76c4b6da-10bf-4813-9b64-2df71add35bb, udp: true}
+- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 76c4b6da-10bf-4813-9b64-2df71add35bb, udp: true}
 - *id001
 - *id002
 - *id003
