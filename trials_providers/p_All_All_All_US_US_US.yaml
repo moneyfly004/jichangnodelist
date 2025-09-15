@@ -5,3 +5,5 @@ proxies:
 - {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 788d6bb8-8556-48d3-8184-beb76f06e9b7, udp: true}
 - {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 788d6bb8-8556-48d3-8184-beb76f06e9b7, udp: true}
 - {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 788d6bb8-8556-48d3-8184-beb76f06e9b7, udp: true}
+- {name: 🇺🇸 US美国-Los Angeles-01 - 脉冲云, server: gyaa.ptwqx.cn, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: aa1bac8a-6f4c-4b0e-a1e0-050b2c5d177d, udp: true}
+- {name: 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: aa1bac8a-6f4c-4b0e-a1e0-050b2c5d177d, udp: true}
