@@ -29,8 +29,8 @@ proxies:
 - {name: 🇭🇰 香港-v6|08 - 悦云, server: greenhk2.616626.xyz, port: 10507, type: vmess, uuid: 76064d16-0e7f-4ac8-809a-18696f10831f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v4|02 - 悦云, server: hkvm4.656888.xyz, port: 30026, type: trojan, password: 76064d16-0e7f-4ac8-809a-18696f10831f, sni: hkvm4.656888.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港03 - 悦云, server: hytro.91ai.de, port: 10022, type: trojan, password: 76064d16-0e7f-4ac8-809a-18696f10831f, sni: hytro.91ai.de, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18820, type: vmess, uuid: 86f24cc3-f1e5-3f48-bc3f-08f14532c826, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
-- {name: 🇭🇰 香港③一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18838, type: vmess, uuid: 86f24cc3-f1e5-3f48-bc3f-08f14532c826, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
+- {name: 🇭🇰 香港②一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18820, type: vmess, uuid: 110354db-cb5d-3acb-ab95-69d6aa9efeb2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
+- {name: 🇭🇰 香港③一优化 - tuboshu.io|土拨鼠.co, server: yh.xdyqlek4lrhs.com, port: 18838, type: vmess, uuid: 110354db-cb5d-3acb-ab95-69d6aa9efeb2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.xdyqlek4lrhs.com}}, udp: true}
 - &id007 {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: ed8a272d-e122-41b5-962b-8179de572a62, udp: true}
 - &id008 {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: ed8a272d-e122-41b5-962b-8179de572a62, udp: true}
 - *id001
@@ -57,9 +57,6 @@ proxies:
 - {name: 🇭🇰 HK02 12小时联通试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 32691, type: ss, cipher: aes-128-gcm, password: 18a38a10-8ccf-4012-931b-a5f4d3b27a16, udp: true}
 - *id007
 - *id008
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 11e84047-eaaa-4870-ac29-0a9b8a62a590, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 11e84047-eaaa-4870-ac29-0a9b8a62a590, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 11e84047-eaaa-4870-ac29-0a9b8a62a590, udp: true}
 - *id001
 - *id002
 - *id003
