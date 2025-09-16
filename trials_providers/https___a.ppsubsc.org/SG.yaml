@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN, server: tuntro008.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: azure.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN, server: tuntro009.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: sgam2.686911.xyz, skip-cert-verify: true, udp: true}
