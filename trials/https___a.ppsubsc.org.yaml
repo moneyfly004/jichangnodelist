@@ -33,42 +33,20 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
-  - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
-  - 🇯🇵 [电信专线] 日本 x A区 - 南北云
-  - 🇯🇵 [联通专线] 日本 x A区 - 南北云
-  - 🇯🇵 [移动专线] 日本 x A区 - 南北云
-  - 🇺🇸 [电信专线] 美国 x A区 - 南北云
-  - 🇺🇸 [联通专线] 美国 x A区 - 南北云
-  - 🇺🇸 [移动专线] 美国 x A区 - 南北云
-  - 🇮🇳 [电信专线] 印度 x A区 - 南北云
-  - 🇮🇳 [联通专线] 印度 x A区 - 南北云
-  - 🇮🇳 [移动专线] 印度 x A区 - 南北云
-  - 🇧🇷 [电信专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [联通专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [移动专线] 巴西 x A区 - 南北云
-  - 🇻🇳 [电信专线] 越南 x A区 - 南北云
-  - 🇻🇳 [联通专线] 越南 x A区 - 南北云
-  - 🇻🇳 [移动专线] 越南 x A区 - 南北云
-  - 🇩🇪 [电信专线] 德国 xA区 - 南北云
-  - 🇩🇪 [联通专线] 德国 x A区 - 南北云
-  - 🇩🇪 [移动专线] 德国 x A区 - 南北云
-  - 🇰🇷 [电信专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [联通专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [移动专线] 韩国 x A区 - 南北云
-  - 🇫🇷 [电信专线] 法国 x A区 - 南北云
-  - 🇫🇷 [联通专线] 法国 x A区 - 南北云
-  - 🇫🇷 [移动专线] 法国 x A区 - 南北云
-  - 🇨🇳官网地址：tsxspace.com - 南北云
-  - 🇨🇳注册试用1小时限1MB - 南北云
-  - 🇨🇳 ---------------------- - 南北云
+  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
+  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
+  - 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN
+  - 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN
+  - 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN
+  - 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN
+  - 🇺🇸 美国-电信 | US-2 - 泡泡 VPN
+  - 🇺🇸 美国-联通 | US-3 - 泡泡 VPN
+  - ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN
+  - 🇩🇪 德国-联通 | DE - 泡泡 VPN
+  - 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN
+  - 🇰🇷 首尔-全网 | SEL - 泡泡 VPN
+  - 🇻🇳 越南-移动 | VN - 泡泡 VPN
+  - 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -124,84 +102,58 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
+  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
+  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
-  - 🇨🇳官网地址：tsxspace.com - 南北云
-  - 🇨🇳注册试用1小时限1MB - 南北云
-  - 🇨🇳 ---------------------- - 南北云
+  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
+  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
+  - 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN
+  - 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 [电信专线] 日本 x A区 - 南北云
-  - 🇯🇵 [联通专线] 日本 x A区 - 南北云
-  - 🇯🇵 [移动专线] 日本 x A区 - 南北云
+  - 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN
+  - 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 [电信专线] 美国 x A区 - 南北云
-  - 🇺🇸 [联通专线] 美国 x A区 - 南北云
-  - 🇺🇸 [移动专线] 美国 x A区 - 南北云
+  - 🇺🇸 美国-电信 | US-2 - 泡泡 VPN
+  - 🇺🇸 美国-联通 | US-3 - 泡泡 VPN
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
   proxies: &id008
-  - 🇮🇳 [电信专线] 印度 x A区 - 南北云
-  - 🇮🇳 [联通专线] 印度 x A区 - 南北云
-  - 🇮🇳 [移动专线] 印度 x A区 - 南北云
-  - 🇧🇷 [电信专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [联通专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [移动专线] 巴西 x A区 - 南北云
-  - 🇻🇳 [电信专线] 越南 x A区 - 南北云
-  - 🇻🇳 [联通专线] 越南 x A区 - 南北云
-  - 🇻🇳 [移动专线] 越南 x A区 - 南北云
-  - 🇩🇪 [电信专线] 德国 xA区 - 南北云
-  - 🇩🇪 [联通专线] 德国 x A区 - 南北云
-  - 🇩🇪 [移动专线] 德国 x A区 - 南北云
-  - 🇰🇷 [电信专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [联通专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [移动专线] 韩国 x A区 - 南北云
-  - 🇫🇷 [电信专线] 法国 x A区 - 南北云
-  - 🇫🇷 [联通专线] 法国 x A区 - 南北云
-  - 🇫🇷 [移动专线] 法国 x A区 - 南北云
+  - ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN
+  - 🇩🇪 德国-联通 | DE - 泡泡 VPN
+  - 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN
+  - 🇰🇷 首尔-全网 | SEL - 泡泡 VPN
+  - 🇻🇳 越南-移动 | VN - 泡泡 VPN
+  - 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -224,42 +176,20 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇮🇳 [电信专线] 印度 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59069, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇮🇳 [联通专线] 印度 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50369, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇮🇳 [移动专线] 印度 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 54274, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇧🇷 [电信专线] 巴西 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59469, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇧🇷 [联通专线] 巴西 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57609, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇧🇷 [移动专线] 巴西 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 53131, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇻🇳 [电信专线] 越南 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52384, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇻🇳 [联通专线] 越南 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55774, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇻🇳 [移动专线] 越南 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58537, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇩🇪 [电信专线] 德国 xA区 - 南北云', server: zf-ct.bgblwow.org, port: 54881, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇩🇪 [联通专线] 德国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 51577, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇩🇪 [移动专线] 德国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58056, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇰🇷 [电信专线] 韩国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 57459, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇰🇷 [联通专线] 韩国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55064, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇰🇷 [移动专线] 韩国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55782, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇫🇷 [电信专线] 法国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59720, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇫🇷 [联通专线] 法国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50748, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇫🇷 [移动专线] 法国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59741, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
-- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: fe643d34-4cbd-4d5d-8da0-12689dbf9c86, udp: true}
+- {name: ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN, server: tuntro001.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: awshk.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN, server: tuntro000.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: hkip5.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN, server: tuntro003.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: cherry.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN, server: tuntro002.instconn.com, port: 20253, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: bing.3668989.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-电信 | US-2 - 泡泡 VPN, server: tuntro005.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: Phoenixrm2.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-联通 | US-3 - 泡泡 VPN, server: tuntro006.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: torontorm1.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN, server: tuntro008.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: azure.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN, server: tuntro009.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: sgam2.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-联通 | DE - 泡泡 VPN, server: tuntro010.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: frankfurtrm2.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-中转 | TW - 泡泡 VPN, server: tuntro011.instconn.com, port: 30130, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: tuntro011.douyin.com, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN, server: tuntro012.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: dibai.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 首尔-全网 | SEL - 泡泡 VPN, server: tuntro013.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: vS7hO0kU.ppaoyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南-移动 | VN - 泡泡 VPN, server: tuntro019.instconn.com, port: 443, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: tuntro019.instconn.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN, server: tuntro020.instconn.com, port: 51056, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: bing.686911.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
