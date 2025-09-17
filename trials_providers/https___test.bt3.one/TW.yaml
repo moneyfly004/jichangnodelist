@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾01|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾02|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾03|BGP专线|SVIP03 - V2Board, server: 1.1.1.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
