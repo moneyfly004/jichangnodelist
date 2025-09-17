@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本节点-5G-01 - 快云加速, server: 13.231.229.139, port: 10001, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇯🇵 日本节点-5G-02 - 快云加速, server: ddns.kuaiyun66.cn, port: 17676, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇯🇵 日本节点-5G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 39030, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
+- {name: 🇯🇵 日本节点5G-01 - 快云加速, server: 13.231.229.139, port: 10001, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
+- {name: 🇯🇵 日本节点5G-02 - 快云加速, server: ddns.haiwaihao.cc, port: 17676, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
+- {name: 🇯🇵 日本节点5G-03 - 快云加速, server: ddns.haiwaihao.cc, port: 39030, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}

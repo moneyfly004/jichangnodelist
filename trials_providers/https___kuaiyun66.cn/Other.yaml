@@ -4,5 +4,5 @@ proxies:
 - {name: ℹ️ 官网:kuaiyun666.xyz - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
 - {name: ℹ️ 售后客服qq:1586932845 - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
 - {name: ℹ️ 有问题联系售后客服qq - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇰🇷 韩国节点-5G-01 - 快云加速, server: ddns.kuaiyun66.cn, port: 47351, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇰🇷 韩国节点-5G-02 - 快云加速, server: ddns.kuaiyun66.cn, port: 48943, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
+- {name: 🇰🇷 韩国节点5G-01 - 快云加速, server: ddns.haiwaihao.cc, port: 47351, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
+- {name: 🇰🇷 韩国节点5G-02 - 快云加速, server: ten-poor-167.gym0boy.com, port: 48943, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}

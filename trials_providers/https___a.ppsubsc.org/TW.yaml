@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾-中转 | TW - 泡泡 VPN, server: tuntro011.instconn.com, port: 30130, type: trojan, password: fc6f071e-9f33-42ef-af60-efd569770b58, sni: tuntro011.douyin.com, skip-cert-verify: true, udp: true}

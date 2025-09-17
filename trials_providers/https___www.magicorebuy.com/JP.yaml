@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 ⚡️日本-01 | 东京优质 - 魔术盒, server: jp.checkip.point.111bbbccc555.xyz, port: 11011, type: ss, cipher: aes-128-gcm, password: d7076ff8-75ca-48b4-95fe-ea1756983096, udp: true}
-- {name: 🇯🇵 ⚡️日本-02 | 大阪优质 - 魔术盒, server: jp.checkip.point.111bbbccc555.xyz, port: 11012, type: ss, cipher: aes-128-gcm, password: d7076ff8-75ca-48b4-95fe-ea1756983096, udp: true}
