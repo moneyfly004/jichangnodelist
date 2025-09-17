@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 ⚡️美国-01 | chatGPT - 魔术盒, server: ask.111bbbccc555.xyz, port: 10001, type: ss, cipher: aes-128-gcm, password: d7076ff8-75ca-48b4-95fe-ea1756983096, udp: true}
+- {name: 🇺🇸 ⚡️美国-08 | chatGPT - 魔术盒, server: ask.111bbbccc555.xyz, port: 10008, type: ss, cipher: aes-128-gcm, password: d7076ff8-75ca-48b4-95fe-ea1756983096, udp: true}
+- {name: 🇺🇸 ⚡️美国-13 | chatGPT | LA-DC03 - 魔术盒, server: ask.111bbbccc555.xyz, port: 10013, type: ss, cipher: aes-128-gcm, password: d7076ff8-75ca-48b4-95fe-ea1756983096, udp: true}
