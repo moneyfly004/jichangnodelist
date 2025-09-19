@@ -28,9 +28,9 @@ proxies:
 - {name: 🇹🇼 台湾-中转 | TW - 泡泡 VPN, server: tuntro011.instconn.com, port: 30130, type: trojan, password: d29187f4-3d6b-4ff1-8183-5e9e36d87529, sni: tuntro011.douyin.com, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: ad7dad97-ac11-4ca3-8fef-38d43715e999, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: ad7dad97-ac11-4ca3-8fef-38d43715e999, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: ad7dad97-ac11-4ca3-8fef-38d43715e999, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 9c245b9b-f6b9-48e6-a7e1-a215df4767a0, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 9c245b9b-f6b9-48e6-a7e1-a215df4767a0, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 9c245b9b-f6b9-48e6-a7e1-a215df4767a0, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id007
 - *id008
 - *id009
