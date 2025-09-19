@@ -1473,15 +1473,15 @@ proxies:
 - {name: 🇰🇷 首尔-全网 | SEL - 泡泡 VPN, server: tuntro013.instconn.com, port: 443, type: trojan, password: d29187f4-3d6b-4ff1-8183-5e9e36d87529, sni: vS7hO0kU.ppaoyun.top, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 越南-移动 | VN - 泡泡 VPN, server: tuntro019.instconn.com, port: 443, type: trojan, password: d29187f4-3d6b-4ff1-8183-5e9e36d87529, sni: tuntro019.instconn.com, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN, server: tuntro020.instconn.com, port: 51056, type: trojan, password: d29187f4-3d6b-4ff1-8183-5e9e36d87529, sni: bing.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: ace31c30-4e1f-4b3a-9c2e-05dbfde7ff35, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: ace31c30-4e1f-4b3a-9c2e-05dbfde7ff35, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: ace31c30-4e1f-4b3a-9c2e-05dbfde7ff35, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: ace31c30-4e1f-4b3a-9c2e-05dbfde7ff35, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: ace31c30-4e1f-4b3a-9c2e-05dbfde7ff35, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 12f9d072-b31d-47db-abbd-f4b32f25c94a, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 12f9d072-b31d-47db-abbd-f4b32f25c94a, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 12f9d072-b31d-47db-abbd-f4b32f25c94a, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 12f9d072-b31d-47db-abbd-f4b32f25c94a, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 12f9d072-b31d-47db-abbd-f4b32f25c94a, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP01 12小时试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 46887, type: ss, cipher: aes-128-gcm, password: 18a38a10-8ccf-4012-931b-a5f4d3b27a16, udp: true}
 - {name: 🇭🇰 HK02 12小时联通试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 64088, type: ss, cipher: aes-128-gcm, password: 18a38a10-8ccf-4012-931b-a5f4d3b27a16, udp: true}
-- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 9ed94939-0c03-3c15-86c6-d119bfe652bd, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 9ed94939-0c03-3c15-86c6-d119bfe652bd, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 永久地址：bit.ly/1pink2 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 4af83a57-9472-3f48-b64c-8638296f06b4, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 使用不了请重新导入订阅 - VeryPinkNxpple, server: 2025.linenet.xyz, port: 443, type: trojan, password: 4af83a57-9472-3f48-b64c-8638296f06b4, sni: 2025.linenet.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
