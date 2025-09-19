@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡-ss2 - Wink, server: sg3.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: da3901f5-cce1-444d-af25-80abbf7fc575, udp: true}
-- {name: 🇸🇬 新加坡-ss3 - Wink, server: sg2.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: da3901f5-cce1-444d-af25-80abbf7fc575, udp: true}
+- {name: 🇸🇬 新加坡-ss2 - Wink, server: sg3.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: b444a909-90dd-481e-9017-a77dc4605774, udp: true}
+- {name: 🇸🇬 新加坡-ss3 - Wink, server: sg2.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: b444a909-90dd-481e-9017-a77dc4605774, udp: true}

@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡-ss2 - Wink, server: sg3.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: da3901f5-cce1-444d-af25-80abbf7fc575, udp: true}
-- {name: 🇸🇬 新加坡-ss3 - Wink, server: sg2.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: da3901f5-cce1-444d-af25-80abbf7fc575, udp: true}
-- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: da3901f5-cce1-444d-af25-80abbf7fc575, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: da3901f5-cce1-444d-af25-80abbf7fc575, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: da3901f5-cce1-444d-af25-80abbf7fc575, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-自用 - Wink, server: jp.xaa.app, port: 443, type: trojan, password: da3901f5-cce1-444d-af25-80abbf7fc575, sni: jp.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-ss2 - Wink, server: sg3.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: b444a909-90dd-481e-9017-a77dc4605774, udp: true}
+- {name: 🇸🇬 新加坡-ss3 - Wink, server: sg2.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: b444a909-90dd-481e-9017-a77dc4605774, udp: true}
+- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: b444a909-90dd-481e-9017-a77dc4605774, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: b444a909-90dd-481e-9017-a77dc4605774, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: b444a909-90dd-481e-9017-a77dc4605774, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-自用 - Wink, server: jp.xaa.app, port: 443, type: trojan, password: b444a909-90dd-481e-9017-a77dc4605774, sni: jp.xaa.app, skip-cert-verify: true, udp: true}
