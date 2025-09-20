@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: b05bb7ba-c47c-4b39-9484-16b2b3344ee1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: c0522834-faa2-40bf-a25b-140cd1f20bf0, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: f2c4e568-e7c0-4251-91d2-40ab1e151bd9, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
