@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 CN台湾-TaiBei-01 - 脉冲云, server: gyaa.ptwqx.cn, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: 4337492d-5cc9-4b27-a7b5-5cc286478370, udp: true}
-- {name: 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: 4337492d-5cc9-4b27-a7b5-5cc286478370, udp: true}
+- {name: 🇹🇼 CN台湾-TaiBei-01 - 脉冲云, server: gyaa.ptwqx.cn, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: 8a7117ec-6a00-45cb-b7f7-ffd056d652c8, udp: true}
+- {name: 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: 8a7117ec-6a00-45cb-b7f7-ffd056d652c8, udp: true}
