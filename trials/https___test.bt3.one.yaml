@@ -14,32 +14,31 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港01|BGP专线|VIP01 - V2Board
+  - 🇭🇰 香港02|金融专线|VIP02 - V2Board
+  - 🇭🇰 香港03|BGP专线|SVIP03 - V2Board
+  - 🇭🇰 香港04|BGP专线|SVIP03 - V2Board
+  - 🇭🇰 香港05|BGP专线|SVIP03 - V2Board
+  - 🇹🇼 台湾01|BGP专线|SVIP03 - V2Board
+  - 🇹🇼 台湾02|BGP专线|SVIP03 - V2Board
+  - 🇹🇼 台湾03|BGP专线|SVIP03 - V2Board
+  - 🇯🇵 日本01|BGP专线|SVIP03 - V2Board
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -67,17 +66,11 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -88,116 +81,67 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 香港01|BGP专线|VIP01 - V2Board
+  - 🇭🇰 香港02|金融专线|VIP02 - V2Board
+  - 🇭🇰 香港03|BGP专线|SVIP03 - V2Board
+  - 🇭🇰 香港04|BGP专线|SVIP03 - V2Board
+  - 🇭🇰 香港05|BGP专线|SVIP03 - V2Board
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - TW
+  proxies: &id003
+  - 🇹🇼 台湾01|BGP专线|SVIP03 - V2Board
+  - 🇹🇼 台湾02|BGP专线|SVIP03 - V2Board
+  - 🇹🇼 台湾03|BGP专线|SVIP03 - V2Board
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - HK
-  - TW
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id004
+  - 🇭🇰 香港01|BGP专线|VIP01 - V2Board
+  - 🇭🇰 香港02|金融专线|VIP02 - V2Board
+  - 🇭🇰 香港03|BGP专线|SVIP03 - V2Board
+  - 🇭🇰 香港04|BGP专线|SVIP03 - V2Board
+  - 🇭🇰 香港05|BGP专线|SVIP03 - V2Board
+  - 🇹🇼 台湾01|BGP专线|SVIP03 - V2Board
+  - 🇹🇼 台湾02|BGP专线|SVIP03 - V2Board
+  - 🇹🇼 台湾03|BGP专线|SVIP03 - V2Board
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 300
-  use: &id007
-  - US
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id005
+  - 🇯🇵 日本01|BGP专线|SVIP03 - V2Board
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  use: *id005
+  proxies: *id004
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id007
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___slianvpn.top/HK.yaml
-    interval: 180
-    path: trials_providers/https___slianvpn.top/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___slianvpn.top/TW.yaml
-    interval: 180
-    path: trials_providers/https___slianvpn.top/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___slianvpn.top/SG.yaml
-    interval: 180
-    path: trials_providers/https___slianvpn.top/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___slianvpn.top/JP.yaml
-    interval: 180
-    path: trials_providers/https___slianvpn.top/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___slianvpn.top/US.yaml
-    interval: 180
-    path: trials_providers/https___slianvpn.top/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___slianvpn.top/Other.yaml
-    interval: 180
-    path: trials_providers/https___slianvpn.top/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id005
+proxies:
+- {name: 🇭🇰 香港01|BGP专线|VIP01 - V2Board, server: 183.60.254.172, port: 14514, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02|金融专线|VIP02 - V2Board, server: 183.60.254.172, port: 14514, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港03|BGP专线|SVIP03 - V2Board, server: 183.60.254.172, port: 14514, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港04|BGP专线|SVIP03 - V2Board, server: 165.154.112.107, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港05|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾02|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03|BGP专线|SVIP03 - V2Board, server: 1.1.1.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -8489,96 +8433,6 @@ rules:
 - IP-CIDR,212.64.0.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,212.129.128.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,45.113.194.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,63.243.252.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.235.44.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,106.12.0.0/15,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.28.224.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,180.76.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,182.61.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,185.10.105.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,202.46.48.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.90.238.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,43.254.0.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.249.212.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,49.4.0.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.31.200.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.218.216.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.115.128.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.116.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.63.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.66.184.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,117.78.0.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,119.3.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,119.8.32.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,121.36.0.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,121.36.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,121.37.0.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,122.112.128.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.0.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.64.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.100.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.104.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.112.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.224.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.240.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.248.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.128.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.160.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.164.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.168.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.176.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.192.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.0.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.64.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.79.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.80.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.96.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.112.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.125.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.128.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,42.186.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.127.128.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.195.24.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.253.132.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.253.240.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.254.48.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,59.111.0.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,59.111.128.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.71.120.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.71.128.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.71.196.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.71.200.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.12.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.18.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.24.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.28.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.38.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.40.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.44.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.48.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.128.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.74.24.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.74.48.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.129.252.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.131.252.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.135.240.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.196.64.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,106.2.32.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,106.2.64.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.113.196.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.113.200.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,115.236.112.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,115.238.76.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,123.58.160.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,223.252.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.192.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.194.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.196.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.200.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.208.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.199.196.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,63.243.252.0/24,🛩️ ‍墙内,no-r
 - GEOIP,CN,🛩️ ‍墙内
 - MATCH,🌐 ‍未知站点
