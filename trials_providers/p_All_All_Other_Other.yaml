@@ -34,3 +34,4 @@ proxies:
 - {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 973b1fe4-1bbc-365f-9fba-a0ddc8417d5b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 973b1fe4-1bbc-365f-9fba-a0ddc8417d5b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 973b1fe4-1bbc-365f-9fba-a0ddc8417d5b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 3f15fac3-746a-351d-ac68-4b8905d4de67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

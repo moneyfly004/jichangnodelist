@@ -8,10 +8,10 @@ proxies:
 - {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: 5c80a4a0-aa39-45f3-beec-9c676e29e222, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: 5c80a4a0-aa39-45f3-beec-9c676e29e222, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: 5c80a4a0-aa39-45f3-beec-9c676e29e222, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 (1.5x)IEPL专线 美国原生1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: 209bc36f-5397-4c31-8cbb-15ea7627f191, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 (1.5x)IEPL专线 美国原生2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: 209bc36f-5397-4c31-8cbb-15ea7627f191, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 (1.5x)IEPL专线 美国1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 209bc36f-5397-4c31-8cbb-15ea7627f191, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 (1.5x)IEPL专线 美国2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 209bc36f-5397-4c31-8cbb-15ea7627f191, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国原生1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: e8f1e59f-3633-47e0-8f6b-e93d41929f19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国原生2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: e8f1e59f-3633-47e0-8f6b-e93d41929f19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: e8f1e59f-3633-47e0-8f6b-e93d41929f19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: e8f1e59f-3633-47e0-8f6b-e93d41929f19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id001 {name: 🇺🇸 US美国-Los Angeles-01 - 脉冲云, server: gyaa.ptwqx.cn, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: 496b2c2d-49c4-425f-bbf5-b50659be374b, udp: true}
 - &id002 {name: 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: 496b2c2d-49c4-425f-bbf5-b50659be374b, udp: true}
 - &id007 {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 8303bb98-5a2d-458b-82d7-b961d1b14181, udp: true}
@@ -40,7 +40,7 @@ proxies:
 - *id006
 - *id001
 - *id002
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 0a3e1855-7d45-4160-8f41-ae32b753084e, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: b021e0c3-ba7f-4f0a-be87-7af97a8f8e82, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id007
 - *id008
 - *id009
@@ -48,9 +48,9 @@ proxies:
 - *id004
 - *id005
 - *id006
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 4f77116d-461f-4ab0-b3a7-38d7f65ceaf4, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 4f77116d-461f-4ab0-b3a7-38d7f65ceaf4, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 4f77116d-461f-4ab0-b3a7-38d7f65ceaf4, udp: true}
+- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 90e083c2-9e2c-4ab0-9c36-4a77a0f43082, udp: true}
+- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 90e083c2-9e2c-4ab0-9c36-4a77a0f43082, udp: true}
+- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 90e083c2-9e2c-4ab0-9c36-4a77a0f43082, udp: true}
 - *id001
 - *id002
 - *id010
