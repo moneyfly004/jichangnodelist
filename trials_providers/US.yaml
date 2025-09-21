@@ -14,11 +14,6 @@ proxies:
 - {name: 🇺🇸 (1.5x)IEPL专线 美国2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 5d16cad7-d62b-40ae-a853-412ea2b5076c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id001 {name: 🇺🇸 US美国-Los Angeles-01 - 脉冲云, server: gyaa.ptwqx.cn, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: 19a7107d-45c7-4f67-bf68-ac0ad4c4f903, udp: true}
 - &id002 {name: 🇺🇸 US美国-Los Angeles-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: 19a7107d-45c7-4f67-bf68-ac0ad4c4f903, udp: true}
-- &id011 {name: 🇺🇸美国01 (支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 30130, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
-- &id012 {name: 🇺🇸美国02 - 爬梯看世界, server: ptcdn.chainpt.art, port: 36481, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
-- &id013 {name: 🇺🇸美国03 | 芝加哥(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 36575, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
-- &id014 {name: 🇺🇸美国04 | 圣何塞(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 54885, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
-- &id015 {name: 🇺🇸美国05 | 纽约城(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 37467, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
 - &id007 {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 85f84625-545d-4340-9b47-a0cec730d2b4, udp: true}
 - &id008 {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 85f84625-545d-4340-9b47-a0cec730d2b4, udp: true}
 - &id009 {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 85f84625-545d-4340-9b47-a0cec730d2b4, udp: true}
@@ -45,7 +40,7 @@ proxies:
 - *id006
 - *id001
 - *id002
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 60a40a8c-7f3c-4a23-8c1f-238eb6d7a4c2, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: a895eb72-2ff9-4542-b56d-6b967800e8ae, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id007
 - *id008
 - *id009
@@ -53,14 +48,14 @@ proxies:
 - *id004
 - *id005
 - *id006
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
+- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
+- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
+- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
 - *id001
 - *id002
 - *id010
-- *id011
-- *id012
-- *id013
-- *id014
-- *id015
+- {name: 🇺🇸美国01 (支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 30130, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
+- {name: 🇺🇸美国02 - 爬梯看世界, server: ptcdn.chainpt.art, port: 36481, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
+- {name: 🇺🇸美国03 | 芝加哥(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 36575, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
+- {name: 🇺🇸美国04 | 圣何塞(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 54885, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
+- {name: 🇺🇸美国05 | 纽约城(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 37467, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}

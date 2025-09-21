@@ -3,7 +3,6 @@
 proxies:
 - &id001 {name: 🇹🇼 CN台湾-TaiBei-01 - 脉冲云, server: gyaa.ptwqx.cn, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: 19a7107d-45c7-4f67-bf68-ac0ad4c4f903, udp: true}
 - &id002 {name: 🇹🇼 CN台湾-TaiBei-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: 19a7107d-45c7-4f67-bf68-ac0ad4c4f903, udp: true}
-- &id014 {name: 🇹🇼台湾 - 爬梯看世界, server: ptcdn.chainpt.art, port: 12721, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
 - {name: 🇹🇼 台湾01|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾02|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾03|BGP专线|SVIP03 - V2Board, server: 1.1.1.1, port: 12000, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
@@ -28,9 +27,9 @@ proxies:
 - *id006
 - *id001
 - *id002
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 60a40a8c-7f3c-4a23-8c1f-238eb6d7a4c2, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 60a40a8c-7f3c-4a23-8c1f-238eb6d7a4c2, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 60a40a8c-7f3c-4a23-8c1f-238eb6d7a4c2, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: a895eb72-2ff9-4542-b56d-6b967800e8ae, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: a895eb72-2ff9-4542-b56d-6b967800e8ae, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: a895eb72-2ff9-4542-b56d-6b967800e8ae, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id007
 - *id008
 - *id009
@@ -41,10 +40,10 @@ proxies:
 - *id004
 - *id005
 - *id006
-- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
-- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
-- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
+- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
+- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
+- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
 - *id001
 - *id002
 - *id013
-- *id014
+- {name: 🇹🇼台湾 - 爬梯看世界, server: ptcdn.chainpt.art, port: 12721, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}

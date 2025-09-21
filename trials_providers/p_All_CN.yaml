@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 5d16cad7-d62b-40ae-a853-412ea2b5076c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 60a40a8c-7f3c-4a23-8c1f-238eb6d7a4c2, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
-- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
-- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: a895eb72-2ff9-4542-b56d-6b967800e8ae, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
+- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
+- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}

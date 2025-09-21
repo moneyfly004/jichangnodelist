@@ -14,11 +14,6 @@ proxies:
 - &id004 {name: 🇭🇰 HK香港2-PQ - 脉冲云, server: gyaa.ptwqx.cn, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: 19a7107d-45c7-4f67-bf68-ac0ad4c4f903, udp: true}
 - &id005 {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: 19a7107d-45c7-4f67-bf68-ac0ad4c4f903, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - &id006 {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 19a7107d-45c7-4f67-bf68-ac0ad4c4f903, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id016 {name: 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 53546, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
-- &id017 {name: 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 32511, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
-- &id018 {name: 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 48537, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
-- &id019 {name: 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 27886, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
-- &id020 {name: 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 25447, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
 - {name: 🇭🇰 香港01|BGP专线|VIP01 - V2Board, server: 183.60.254.172, port: 14514, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港02|金融专线|VIP02 - V2Board, server: 183.60.254.172, port: 14514, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港03|BGP专线|SVIP03 - V2Board, server: 183.60.254.172, port: 14514, type: trojan, password: 37affba1-2314-4c32-a0b4-7860d819bd11, sni: aliyun.com, skip-cert-verify: true, udp: true}
@@ -64,9 +59,9 @@ proxies:
 - {name: 🇭🇰 HK02 12小时联通试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 64088, type: ss, cipher: aes-128-gcm, password: 4f65bab5-447f-4d63-a769-0e22c07dc353, udp: true}
 - *id007
 - *id008
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 41c14387-061c-49fb-a1e4-62e6077a3e3b, udp: true}
+- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
+- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
+- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: b86fb50c-4af4-4de9-b092-21608f5646dc, udp: true}
 - *id001
 - *id002
 - *id003
@@ -74,8 +69,8 @@ proxies:
 - *id005
 - *id006
 - *id015
-- *id016
-- *id017
-- *id018
-- *id019
-- *id020
+- {name: 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 53546, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
+- {name: 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 32511, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
+- {name: 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 48537, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
+- {name: 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 27886, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
+- {name: 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 25447, type: ss, cipher: chacha20-ietf-poly1305, password: 835b4f7d-6d51-41da-93b2-708d2d79bf09, udp: true}
