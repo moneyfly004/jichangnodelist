@@ -14,12 +14,14 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -27,28 +29,17 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界
-  - 🇹🇼台湾 - 爬梯看世界
-  - 🇯🇵日本01 | IPLC三网直连 - 爬梯看世界
-  - 🇯🇵日本02 | IPLC三网直连 - 爬梯看世界
-  - 🇯🇵日本03 | IPLC三网直连 - 爬梯看世界
-  - 🇺🇸美国01 (支持GPT) - 爬梯看世界
-  - 🇺🇸美国02 - 爬梯看世界
-  - 🇺🇸美国03 | 芝加哥(支持GPT) - 爬梯看世界
-  - 🇺🇸美国04 | 圣何塞(支持GPT) - 爬梯看世界
-  - 🇺🇸美国05 | 纽约城(支持GPT) - 爬梯看世界
-  - ℹ️ 永久官网：www.ptchain.app - 爬梯看世界
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -78,11 +69,13 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
@@ -95,95 +88,116 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界
+  use: &id002
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇹🇼台湾 - 爬梯看世界
+  use: &id003
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id004
-  - 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界
-  - 🇹🇼台湾 - 爬梯看世界
+  use: &id004
+  - HK
+  - TW
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  tolerance: 100
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇯🇵日本01 | IPLC三网直连 - 爬梯看世界
-  - 🇯🇵日本02 | IPLC三网直连 - 爬梯看世界
-  - 🇯🇵日本03 | IPLC三网直连 - 爬梯看世界
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id006
-  - 🇺🇸美国01 (支持GPT) - 爬梯看世界
-  - 🇺🇸美国02 - 爬梯看世界
-  - 🇺🇸美国03 | 芝加哥(支持GPT) - 爬梯看世界
-  - 🇺🇸美国04 | 圣何塞(支持GPT) - 爬梯看世界
-  - 🇺🇸美国05 | 纽约城(支持GPT) - 爬梯看世界
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id007
-  - ℹ️ 永久官网：www.ptchain.app - 爬梯看世界
+  use: &id008
+  - Other
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id004
+  use: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id005
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id006
+  use: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id007
-proxies:
-- {name: ℹ️ 永久官网：www.ptchain.app - 爬梯看世界, server: ptcdn.chainpt.art, port: 48537, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 53546, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 32511, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 48537, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 27886, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 25447, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇯🇵日本01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 34378, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇯🇵日本02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 11672, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇯🇵日本03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 58377, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇺🇸美国01 (支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 30130, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇺🇸美国02 - 爬梯看世界, server: ptcdn.chainpt.art, port: 36481, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇺🇸美国03 | 芝加哥(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 36575, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇺🇸美国04 | 圣何塞(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 54885, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇺🇸美国05 | 纽约城(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 37467, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
-- {name: 🇹🇼台湾 - 爬梯看世界, server: ptcdn.chainpt.art, port: 12721, type: ss, cipher: chacha20-ietf-poly1305, password: f45354ed-ea72-4dfa-a6a2-221a5410889b, udp: true}
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___ldldo.top_/HK.yaml
+    interval: 180
+    path: trials_providers/https___ldldo.top_/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___ldldo.top_/TW.yaml
+    interval: 180
+    path: trials_providers/https___ldldo.top_/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___ldldo.top_/SG.yaml
+    interval: 180
+    path: trials_providers/https___ldldo.top_/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___ldldo.top_/JP.yaml
+    interval: 180
+    path: trials_providers/https___ldldo.top_/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___ldldo.top_/US.yaml
+    interval: 180
+    path: trials_providers/https___ldldo.top_/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/jichangnodes/main/trials_providers/https___ldldo.top_/Other.yaml
+    interval: 180
+    path: trials_providers/https___ldldo.top_/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
