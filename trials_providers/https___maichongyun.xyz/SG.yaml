@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 Singapore新加坡-01-st - 脉冲云, server: gyaa.ptwqx.cn, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 1080f68e-57db-4925-b646-9953630a96f5, udp: true}
-- {name: 🇸🇬 Singapore新加坡-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 1080f68e-57db-4925-b646-9953630a96f5, udp: true}
-- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 1080f68e-57db-4925-b646-9953630a96f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 Singapore新加坡-01-st - 脉冲云, server: gyaa.ptwqx.cn, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 4a42137c-4c4f-40f2-b9ff-89b9a718c355, udp: true}
+- {name: 🇸🇬 Singapore新加坡-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 4a42137c-4c4f-40f2-b9ff-89b9a718c355, udp: true}
+- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 4a42137c-4c4f-40f2-b9ff-89b9a718c355, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

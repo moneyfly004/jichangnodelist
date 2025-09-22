@@ -1,5 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: fc083952-595c-494a-ba82-226611cc284c, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: fc083952-595c-494a-ba82-226611cc284c, udp: true}
+- {name: 🇸🇬 Singapore新加坡-01-st - 脉冲云, server: gyaa.ptwqx.cn, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 4a42137c-4c4f-40f2-b9ff-89b9a718c355, udp: true}
+- {name: 🇸🇬 Singapore新加坡-02-wap - 脉冲云, server: gyaa.ptwqx.cn, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 4a42137c-4c4f-40f2-b9ff-89b9a718c355, udp: true}
+- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 4a42137c-4c4f-40f2-b9ff-89b9a718c355, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 5bf03226-3f9b-4106-8529-883611dba7cd, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 5bf03226-3f9b-4106-8529-883611dba7cd, udp: true}
