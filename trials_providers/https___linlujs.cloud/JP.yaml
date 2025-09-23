@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本01 - 灵鹿加速, server: jp-nb-01.linlujs.pw, port: 39955, type: ss, cipher: aes-128-gcm, password: 1039a56f-13bd-4714-94dc-b12b80ada44f, udp: true}

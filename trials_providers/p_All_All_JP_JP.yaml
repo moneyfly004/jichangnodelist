@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 27c2bedd-df62-403a-8e33-b1ab2344561f, udp: true}
-- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 27c2bedd-df62-403a-8e33-b1ab2344561f, udp: true}
-- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 27c2bedd-df62-403a-8e33-b1ab2344561f, udp: true}
+- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: fe6aa23f-d571-4f6f-ac2b-111c4b12bdf7, udp: true}
+- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: fe6aa23f-d571-4f6f-ac2b-111c4b12bdf7, udp: true}
+- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: fe6aa23f-d571-4f6f-ac2b-111c4b12bdf7, udp: true}
 - {name: 🇯🇵 JP日本 | Evo1 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10281, type: ss, cipher: chacha20-ietf-poly1305, password: 88a955a6-0b19-45a7-a164-c153b8fa2002, udp: true}
 - {name: 🇯🇵 JP日本 | Evo2 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10282, type: ss, cipher: chacha20-ietf-poly1305, password: 88a955a6-0b19-45a7-a164-c153b8fa2002, udp: true}
 - {name: 🇯🇵 JP日本 | Evo3 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10283, type: ss, cipher: chacha20-ietf-poly1305, password: 88a955a6-0b19-45a7-a164-c153b8fa2002, udp: true}
