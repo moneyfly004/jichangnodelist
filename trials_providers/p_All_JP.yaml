@@ -22,6 +22,6 @@ proxies:
 - {name: 🇯🇵 JP01 12小时试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 46887, type: ss, cipher: aes-128-gcm, password: 4f65bab5-447f-4d63-a769-0e22c07dc353, udp: true}
 - {name: 🇯🇵 日本01 - LinluJS, server: jp-nb-01.linlujs.pw, port: 39955, type: ss, cipher: aes-128-gcm, password: 4cfa1ddb-0571-47b1-9ac4-60ec1d2f5de6, udp: true}
 - {name: 🇯🇵 日本01 - 灵鹿加速, server: jp-nb-01.linlujs.pw, port: 39955, type: ss, cipher: aes-128-gcm, password: 1039a56f-13bd-4714-94dc-b12b80ada44f, udp: true}
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: eb688ac1-49e7-412b-92d9-b21f195d55ea, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: eb688ac1-49e7-412b-92d9-b21f195d55ea, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: eb688ac1-49e7-412b-92d9-b21f195d55ea, udp: true}
+- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 4914ac24-4b5b-4b3f-ad04-244dab44aef1, udp: true}
+- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 4914ac24-4b5b-4b3f-ad04-244dab44aef1, udp: true}
+- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 4914ac24-4b5b-4b3f-ad04-244dab44aef1, udp: true}
