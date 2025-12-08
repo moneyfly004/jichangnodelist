@@ -1,10 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: dx.miloli.me, port: 23616, type: vmess, uuid: 6a6a178b-1fa0-3cff-b0b7-d25098df69f9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡联通1——直连 - FastVPN, server: 149.28.141.254, port: 15604, type: trojan, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡移动1——直连 - FastVPN, server: 149.28.141.254, port: 34358, type: vmess, uuid: 6aa953aa-c12e-456c-8463-f82a59d78c2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡移动4——直连 - FastVPN, server: 149.28.141.254, port: 21278, type: ss, cipher: aes-256-gcm, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, udp: true}
-- {name: 🇸🇬 新加坡联通1 - FastVPN, server: 149.28.141.254, port: 15841, type: trojan, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡移动1 - FastVPN, server: 149.28.141.254, port: 29974, type: vmess, uuid: 6aa953aa-c12e-456c-8463-f82a59d78c2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: dx.miloli.me, port: 23616, type: vmess, uuid: 1fc30e99-8ec6-34b9-9be5-ab70e37a94e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001

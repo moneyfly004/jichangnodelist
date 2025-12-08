@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国联通1——直连 - FastVPN, server: 144.202.125.59, port: 19163, type: trojan, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国移动1——直连 - FastVPN, server: 144.202.125.59, port: 40543, type: vmess, uuid: 6aa953aa-c12e-456c-8463-f82a59d78c2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国移动4——直连 - FastVPN, server: 144.202.125.59, port: 38588, type: ss, cipher: aes-256-gcm, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, udp: true}
-- {name: 🇺🇸 美国联通1 - FastVPN, server: 144.202.125.59, port: 40793, type: trojan, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国移动1 - FastVPN, server: 144.202.125.59, port: 21437, type: vmess, uuid: 6aa953aa-c12e-456c-8463-f82a59d78c2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国移动4 - FastVPN, server: 144.202.125.59, port: 19282, type: ss, cipher: aes-256-gcm, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, udp: true}

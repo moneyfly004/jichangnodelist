@@ -1,12 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: '🇭🇰 [vip①]①香港 - MG Network', server: dx.miloli.me, port: 23612, type: vmess, uuid: 6a6a178b-1fa0-3cff-b0b7-d25098df69f9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港联通1——直连 - FastVPN, server: 47.242.1.128, port: 31486, type: trojan, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港移动1——直连 - FastVPN, server: 47.242.1.128, port: 17492, type: vmess, uuid: 6aa953aa-c12e-456c-8463-f82a59d78c2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港移动4——直连 - FastVPN, server: 47.242.1.128, port: 28762, type: ss, cipher: aes-256-gcm, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, udp: true}
-- {name: 🇭🇰 香港联通1 - FastVPN, server: 47.242.1.128, port: 26548, type: trojan, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港移动1 - FastVPN, server: 47.242.1.128, port: 11200, type: vmess, uuid: 6aa953aa-c12e-456c-8463-f82a59d78c2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: '🇭🇰 [vip①]①香港 - MG Network', server: dx.miloli.me, port: 23612, type: vmess, uuid: 1fc30e99-8ec6-34b9-9be5-ab70e37a94e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: a31d58f0-3103-435b-814f-5affe1d639fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: a31d58f0-3103-435b-814f-5affe1d639fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: a31d58f0-3103-435b-814f-5affe1d639fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
