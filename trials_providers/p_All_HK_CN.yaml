@@ -1,23 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港节点5G-01 - 快云加速, server: 180.188.33.40, port: 25721, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇭🇰 香港节点5G-02 - 快云加速, server: 180.188.33.40, port: 36030, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇭🇰 香港节点10G-03 - 快云加速, server: 180.188.33.40, port: 22224, type: ss, cipher: aes-256-gcm, password: a7e466f1-52a0-4d9c-944d-2cf76422dc40, udp: true}
-- {name: 🇭🇰 (2x)IEPL专线 香港1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 3a9dca6e-0230-4e85-a3b1-c110f7486997, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 (2x)IEPL专线 香港2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 3a9dca6e-0230-4e85-a3b1-c110f7486997, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 (2x)IEPL专线 香港3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: 3a9dca6e-0230-4e85-a3b1-c110f7486997, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: 7424d2af-d35e-4c71-a8b8-1bf41a24ac0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: 7424d2af-d35e-4c71-a8b8-1bf41a24ac0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: 7424d2af-d35e-4c71-a8b8-1bf41a24ac0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v6|08 - 悦云, server: greenhk2.616626.xyz, port: 10507, type: vmess, uuid: 7424d2af-d35e-4c71-a8b8-1bf41a24ac0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-v4|02 - 悦云, server: hkvm4.656888.xyz, port: 30026, type: trojan, password: 7424d2af-d35e-4c71-a8b8-1bf41a24ac0b, sni: hkvm4.656888.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03 - 悦云, server: hytro.91ai.de, port: 10022, type: trojan, password: 7424d2af-d35e-4c71-a8b8-1bf41a24ac0b, sni: hytro.91ai.de, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港②一优化 - tuboshu.io|土拨鼠.co, server: yh.paint-buster.com, port: 18820, type: vmess, uuid: 8854eac3-8828-3c2c-b447-79dc4b010273, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.paint-buster.com}}, udp: true}
-- {name: 🇭🇰 香港③一优化 - tuboshu.io|土拨鼠.co, server: yh.paint-buster.com, port: 18838, type: vmess, uuid: 8854eac3-8828-3c2c-b447-79dc4b010273, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yh.paint-buster.com}}, udp: true}
-- {name: 🇭🇰 HK02 12小时联通试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 64088, type: ss, cipher: aes-128-gcm, password: 2b0f3c82-f184-45cb-b816-2e6e30e96261, udp: true}
-- {name: 🇭🇰 香港直连01 - LinluJS, server: hk-hy-01.linlujs.pw, port: 45541, type: ss, cipher: aes-128-gcm, password: 4cfa1ddb-0571-47b1-9ac4-60ec1d2f5de6, udp: true}
-- {name: 🇭🇰 香港直连01 - 灵鹿加速, server: hk-hy-01.linlujs.pw, port: 45541, type: ss, cipher: aes-128-gcm, password: 1039a56f-13bd-4714-94dc-b12b80ada44f, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: ae0d99e0-0d7f-4279-9ce2-e6fdd59602f1, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: ae0d99e0-0d7f-4279-9ce2-e6fdd59602f1, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: ae0d99e0-0d7f-4279-9ce2-e6fdd59602f1, udp: true}
+- {name: 🇭🇰 香港联通1——直连 - FastVPN, server: 47.242.1.128, port: 31486, type: trojan, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港移动1——直连 - FastVPN, server: 47.242.1.128, port: 17492, type: vmess, uuid: 6aa953aa-c12e-456c-8463-f82a59d78c2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港移动4——直连 - FastVPN, server: 47.242.1.128, port: 28762, type: ss, cipher: aes-256-gcm, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, udp: true}
+- {name: 🇭🇰 香港联通1 - FastVPN, server: 47.242.1.128, port: 26548, type: trojan, password: 6aa953aa-c12e-456c-8463-f82a59d78c2d, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港移动1 - FastVPN, server: 47.242.1.128, port: 11200, type: vmess, uuid: 6aa953aa-c12e-456c-8463-f82a59d78c2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: a31d58f0-3103-435b-814f-5affe1d639fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: a31d58f0-3103-435b-814f-5affe1d639fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: a31d58f0-3103-435b-814f-5affe1d639fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v6|08 - 悦云, server: greenhk2.616626.xyz, port: 10507, type: vmess, uuid: a31d58f0-3103-435b-814f-5affe1d639fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-v4|02 - 悦云, server: hkvm4.656888.xyz, port: 30026, type: trojan, password: a31d58f0-3103-435b-814f-5affe1d639fc, sni: hkvm4.656888.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港03 - 悦云, server: hytro.91ai.de, port: 10022, type: trojan, password: a31d58f0-3103-435b-814f-5affe1d639fc, sni: hytro.91ai.de, skip-cert-verify: true, udp: true}
