@@ -5,3 +5,4 @@ proxies:
 - {name: '🇬🇧 [vip①]英国1 - MG Network', server: dx.miloli.me, port: 23605, type: vmess, uuid: 1fc30e99-8ec6-34b9-9be5-ab70e37a94e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇬🇧 [vip①]英国2 - MG Network', server: dx.miloli.me, port: 23613, type: vmess, uuid: 1fc30e99-8ec6-34b9-9be5-ab70e37a94e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: dx.miloli.me, port: 23614, type: vmess, uuid: 1fc30e99-8ec6-34b9-9be5-ab70e37a94e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 0b7e10fb-2dc3-3c5f-98bc-571733280f29, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
