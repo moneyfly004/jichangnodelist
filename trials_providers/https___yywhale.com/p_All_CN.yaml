@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 4eb810e5-2f47-47f7-b354-60d53faa94d4, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: c6b763ff-5232-4917-8cd1-c5d8ded27941, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
