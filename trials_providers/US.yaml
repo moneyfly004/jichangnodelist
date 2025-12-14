@@ -2,7 +2,7 @@
 ---
 proxies:
 - &id001 {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 58e6e5de-0742-3623-8faf-5d93160d07aa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: a0f32c07-ecb3-414f-8f81-c77fa144cf5a, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 8d31ca05-dc1a-47c9-90e7-88bb8f901915, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: 3b0ac897-0e5b-4270-83fa-6f4b37801324, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: 3b0ac897-0e5b-4270-83fa-6f4b37801324, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02 - 悦云, server: vir11.189.ovh, port: 10022, type: trojan, password: 3b0ac897-0e5b-4270-83fa-6f4b37801324, sni: vir11.189.ovh, skip-cert-verify: true, udp: true}
