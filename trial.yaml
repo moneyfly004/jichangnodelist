@@ -58,6 +58,10 @@ proxy-groups:
   - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
   - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
   - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
+  - 🇹🇼 台湾高速节点 - 新云游
+  - 🇹🇼 台湾高速节点2 - 新云游
+  - 🇹🇼 台湾高速节点3 - 新云游
+  - 🇺🇸 美国高速节点1 - 新云游
   - 🇺🇸 美国-v6|01 - 悦云
   - 🇺🇸 美国01 - 悦云
   - 🇺🇸 美国02 - 悦云
@@ -65,6 +69,7 @@ proxy-groups:
   - 🇺🇸 美国04 - 悦云
   - 🇺🇸 美国05 - 悦云
   - 🇺🇸 美国07 - 悦云
+  - 🇨🇳 中国联通节点1 - 新云游
   - 🇯🇵 日本-v6|02 - 悦云
   - 🇯🇵 日本-v6|04 - 悦云
   - 🇯🇵 日本-v6|05 - 悦云
@@ -159,6 +164,9 @@ proxy-groups:
   proxies: &id003
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
+  - 🇹🇼 台湾高速节点 - 新云游
+  - 🇹🇼 台湾高速节点2 - 新云游
+  - 🇹🇼 台湾高速节点3 - 新云游
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -169,6 +177,10 @@ proxy-groups:
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
+  - 🇹🇼 台湾高速节点 - 新云游
+  - 🇹🇼 台湾高速节点2 - 新云游
+  - 🇹🇼 台湾高速节点3 - 新云游
+  - 🇨🇳 中国联通节点1 - 新云游
   - 🇭🇰 香港-v6|05*0.5倍率 - 悦云
   - 🇭🇰 香港-v6|06 - 悦云
   - 🇭🇰 香港-v6|07 - 悦云
@@ -211,6 +223,7 @@ proxy-groups:
   proxies: &id007
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 [vip①]美国1 - MG Network
+  - 🇺🇸 美国高速节点1 - 新云游
   - 🇺🇸 美国-v6|01 - 悦云
   - 🇺🇸 美国01 - 悦云
   - 🇺🇸 美国02 - 悦云
@@ -277,7 +290,12 @@ proxies:
 - {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 3bd72460-3ed2-320d-803d-5a941eb1597e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 3bd72460-3ed2-320d-803d-5a941eb1597e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 3bd72460-3ed2-320d-803d-5a941eb1597e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 99f8c15d-c469-30ed-8371-21d62ecf4579, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 430aee6d-4ad7-3800-bb7a-67e22d5dc7bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 034dec00-7112-4b32-a8b9-d60153626f2f, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 034dec00-7112-4b32-a8b9-d60153626f2f, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 034dec00-7112-4b32-a8b9-d60153626f2f, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 034dec00-7112-4b32-a8b9-d60153626f2f, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 034dec00-7112-4b32-a8b9-d60153626f2f, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: d95f9df5-67b5-4641-9119-c8c37cfba917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: d95f9df5-67b5-4641-9119-c8c37cfba917, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02 - 悦云, server: vir11.189.ovh, port: 10022, type: trojan, password: d95f9df5-67b5-4641-9119-c8c37cfba917, sni: vir11.189.ovh, skip-cert-verify: true, udp: true}
