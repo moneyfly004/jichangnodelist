@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- &id002 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 47443de2-29fe-3c8d-b018-75228c5715ef, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 47443de2-29fe-3c8d-b018-75228c5715ef, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 47443de2-29fe-3c8d-b018-75228c5715ef, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 47443de2-29fe-3c8d-b018-75228c5715ef, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 3bd72460-3ed2-320d-803d-5a941eb1597e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 3bd72460-3ed2-320d-803d-5a941eb1597e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 3bd72460-3ed2-320d-803d-5a941eb1597e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 3bd72460-3ed2-320d-803d-5a941eb1597e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: af591f2c-86e8-3547-808f-bb9e1c3d0b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
 - *id001
