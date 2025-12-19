@@ -2,7 +2,7 @@
 ---
 proxies:
 - &id001 {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: a09e5195-c75e-3849-83f7-1620dc803c9d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 41bc7f1b-12ca-4d5f-9379-0f1e17245f64, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 41bc7f1b-12ca-4d5f-9379-0f1e17245f64, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 41bc7f1b-12ca-4d5f-9379-0f1e17245f64, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 91c60446-f1ae-413c-b1a8-6ebdf29792a2, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 91c60446-f1ae-413c-b1a8-6ebdf29792a2, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 91c60446-f1ae-413c-b1a8-6ebdf29792a2, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id001
