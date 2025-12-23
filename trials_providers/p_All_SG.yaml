@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 A2| 新加坡 01 - 52Cloud, server: sg1.52ady.com, port: 39471, type: vmess, uuid: 716871bd-a890-3b14-95a6-0dea495e382e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 A2| 新加坡 02 - 52Cloud, server: sg2.52ady.com, port: 47393, type: vmess, uuid: 716871bd-a890-3b14-95a6-0dea495e382e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 A2| 新加坡 03 - 52Cloud, server: sg3.52ady.com, port: 31002, type: vmess, uuid: 716871bd-a890-3b14-95a6-0dea495e382e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 A2| 新加坡 01 - 52Cloud, server: sg1.52ady.com, port: 39471, type: vmess, uuid: 40a04f1d-01d6-3902-abed-7928cfb4cdf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 A2| 新加坡 02 - 52Cloud, server: sg2.52ady.com, port: 47393, type: vmess, uuid: 40a04f1d-01d6-3902-abed-7928cfb4cdf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 A2| 新加坡 03 - 52Cloud, server: sg3.52ady.com, port: 31002, type: vmess, uuid: 40a04f1d-01d6-3902-abed-7928cfb4cdf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

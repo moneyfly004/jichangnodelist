@@ -1,9 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 639ce572-c237-30d6-ae4f-8c1f117fb886, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id002 {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 639ce572-c237-30d6-ae4f-8c1f117fb886, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id003 {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 639ce572-c237-30d6-ae4f-8c1f117fb886, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|02 - 悦云, server: greenchais2.668918.xyz, port: 22307, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|04 - 悦云, server: greenip1.668918.xyz, port: 22306, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|05 - 悦云, server: greenip2.668918.xyz, port: 22307, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -12,9 +9,3 @@ proxies:
 - {name: 🇯🇵 日本01 - 悦云, server: greenjp2.yueyun.de, port: 11030, type: trojan, password: b0da3756-aa90-487b-a4e0-cbb8c39abe95, sni: greenjp2.yueyun.de, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本02 - 悦云, server: vpsjp.yueyun.de, port: 13036, type: trojan, password: b0da3756-aa90-487b-a4e0-cbb8c39abe95, sni: vpsjp.yueyun.de, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本03 - 悦云, server: cloud.yueyun.de, port: 10389, type: trojan, password: b0da3756-aa90-487b-a4e0-cbb8c39abe95, sni: cloud.yueyun.de, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 A2| 日本 01 - 52Cloud, server: jp1.52ady.com, port: 28016, type: vmess, uuid: 40a04f1d-01d6-3902-abed-7928cfb4cdf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 A2| 日本 02 - 52Cloud, server: jp2.52ady.com, port: 28021, type: vmess, uuid: 40a04f1d-01d6-3902-abed-7928cfb4cdf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 A2| 日本 03 - 52Cloud, server: jp3.52ady.com, port: 28017, type: vmess, uuid: 40a04f1d-01d6-3902-abed-7928cfb4cdf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- *id001
-- *id002
-- *id003

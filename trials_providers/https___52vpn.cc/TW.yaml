@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 A3| 台湾 01 - 52Cloud, server: tw1.52ady.com, port: 28005, type: vmess, uuid: 716871bd-a890-3b14-95a6-0dea495e382e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 A3| 台湾 01 - 52Cloud, server: tw1.52ady.com, port: 28005, type: vmess, uuid: 40a04f1d-01d6-3902-abed-7928cfb4cdf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
