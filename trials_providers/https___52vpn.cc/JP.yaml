@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 A2| 日本 01 - 52Cloud, server: jp1.52ady.com, port: 28016, type: vmess, uuid: 5623a625-bfb2-3bd9-946e-2007855fcb66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 A2| 日本 02 - 52Cloud, server: jp2.52ady.com, port: 28021, type: vmess, uuid: 5623a625-bfb2-3bd9-946e-2007855fcb66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 A2| 日本 03 - 52Cloud, server: jp3.52ady.com, port: 28017, type: vmess, uuid: 5623a625-bfb2-3bd9-946e-2007855fcb66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 A2| 日本 01 - 52Cloud, server: jp1.52ady.com, port: 28016, type: vmess, uuid: b1ec9538-da89-3532-859d-3af1bb138747, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 A2| 日本 02 - 52Cloud, server: jp2.52ady.com, port: 28021, type: vmess, uuid: b1ec9538-da89-3532-859d-3af1bb138747, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 A2| 日本 03 - 52Cloud, server: jp3.52ady.com, port: 28017, type: vmess, uuid: b1ec9538-da89-3532-859d-3af1bb138747, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

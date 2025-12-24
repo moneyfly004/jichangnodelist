@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 A1| 香港 02 - 52Cloud, server: hk1.52ady.com, port: 28032, type: vmess, uuid: 5623a625-bfb2-3bd9-946e-2007855fcb66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 A1| 香港 03 - 52Cloud, server: hk2.52ady.com, port: 28540, type: vmess, uuid: 5623a625-bfb2-3bd9-946e-2007855fcb66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 A3| 台湾 01 - 52Cloud, server: tw1.52ady.com, port: 28005, type: vmess, uuid: 5623a625-bfb2-3bd9-946e-2007855fcb66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A1| 香港 02 - 52Cloud, server: hk1.52ady.com, port: 28032, type: vmess, uuid: b1ec9538-da89-3532-859d-3af1bb138747, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A1| 香港 03 - 52Cloud, server: hk2.52ady.com, port: 28540, type: vmess, uuid: b1ec9538-da89-3532-859d-3af1bb138747, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 A3| 台湾 01 - 52Cloud, server: tw1.52ady.com, port: 28005, type: vmess, uuid: b1ec9538-da89-3532-859d-3af1bb138747, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
