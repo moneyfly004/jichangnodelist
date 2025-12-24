@@ -7,7 +7,6 @@ proxies:
 - &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 9e100731-6bab-3a8a-bb45-7ec578fd402c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 6f5f9620-1bb3-3fb9-8152-5123093ddcba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
-- *id001
 - {name: 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云, server: naran1.616626.xyz, port: 22305, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇳🇱 荷兰-v6|02*0.5倍率 - 悦云, server: naran2.616626.xyz, port: 22306, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇳🇱 荷兰-v6|03*0.5倍率 - 悦云, server: naran3.616626.xyz, port: 22308, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
