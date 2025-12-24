@@ -3,15 +3,18 @@
 proxies:
 - &id001 {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: 9e100731-6bab-3a8a-bb45-7ec578fd402c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id002 {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: 9e100731-6bab-3a8a-bb45-7ec578fd402c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: a8b5ceb7-f790-4886-ae2a-207f480c0d26, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: a8b5ceb7-f790-4886-ae2a-207f480c0d26, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: a8b5ceb7-f790-4886-ae2a-207f480c0d26, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: a8b5ceb7-f790-4886-ae2a-207f480c0d26, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 2835293d-45e7-4dcb-b3bb-ce9309dc87b1, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 2835293d-45e7-4dcb-b3bb-ce9309dc87b1, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 2835293d-45e7-4dcb-b3bb-ce9309dc87b1, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 2835293d-45e7-4dcb-b3bb-ce9309dc87b1, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|08 - 悦云, server: greenhk2.616626.xyz, port: 10507, type: vmess, uuid: b0da3756-aa90-487b-a4e0-cbb8c39abe95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v4|02 - 悦云, server: hkvm4.656888.xyz, port: 30026, type: trojan, password: b0da3756-aa90-487b-a4e0-cbb8c39abe95, sni: hkvm4.656888.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港03 - 悦云, server: hytro.91ai.de, port: 10022, type: trojan, password: b0da3756-aa90-487b-a4e0-cbb8c39abe95, sni: hytro.91ai.de, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A1| 香港 02 - 52Cloud, server: hk1.52ady.com, port: 28032, type: vmess, uuid: 91b015e5-7502-300c-856c-003ed7d62ddc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A1| 香港 03 - 52Cloud, server: hk2.52ady.com, port: 28540, type: vmess, uuid: 91b015e5-7502-300c-856c-003ed7d62ddc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 A3| 台湾 01 - 52Cloud, server: tw1.52ady.com, port: 28005, type: vmess, uuid: 91b015e5-7502-300c-856c-003ed7d62ddc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
