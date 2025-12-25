@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: ℹ️ 官网 v52x.cc - 52Cloud, server: 52vpn.cc, port: 10086, type: vmess, uuid: 9f30228f-2827-3e93-a7ca-58aa47367458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: A1| 亚太负载均衡节点 01 - 52Cloud, server: asia.52ady.com, port: 28034, type: vmess, uuid: 9f30228f-2827-3e93-a7ca-58aa47367458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 A3| 英国 01 - 52Cloud, server: uk1.52ady.com, port: 47198, type: vmess, uuid: 9f30228f-2827-3e93-a7ca-58aa47367458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 A3| 越南 01 - 52Cloud, server: yn1.52ady.com, port: 47391, type: vmess, uuid: 9f30228f-2827-3e93-a7ca-58aa47367458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 A3| 韩国 01 - 52Cloud, server: kr1.52ady.com, port: 24040, type: vmess, uuid: 9f30228f-2827-3e93-a7ca-58aa47367458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
