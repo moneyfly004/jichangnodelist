@@ -1,13 +1,21 @@
 %YAML 1.1
 ---
 proxies:
-- &id002 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 4d685b76-39cb-3e97-afa3-639f8110e330, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 4d685b76-39cb-3e97-afa3-639f8110e330, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 4d685b76-39cb-3e97-afa3-639f8110e330, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 4d685b76-39cb-3e97-afa3-639f8110e330, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: ae10068d-6a5b-3f26-abd2-ec5e67fbffc8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: ae10068d-6a5b-3f26-abd2-ec5e67fbffc8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: ae10068d-6a5b-3f26-abd2-ec5e67fbffc8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: ae10068d-6a5b-3f26-abd2-ec5e67fbffc8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 28cfe91a-4dd4-34ef-b741-88f2e5bdb788, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
-- *id001
+- {name: 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云, server: naran1.616626.xyz, port: 22305, type: vmess, uuid: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-v6|02*0.5倍率 - 悦云, server: naran2.616626.xyz, port: 22306, type: vmess, uuid: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-v6|03*0.5倍率 - 悦云, server: naran3.616626.xyz, port: 22308, type: vmess, uuid: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-v6|04*0.5倍率 - 悦云, server: naran4.616626.xyz, port: 22310, type: vmess, uuid: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-v6|01*0.5倍率 - 悦云, server: netcp1.616626.xyz, port: 22305, type: vmess, uuid: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-v6|02*0.5倍率 - 悦云, server: netcp2.616626.xyz, port: 22306, type: vmess, uuid: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-v6|03*0.5倍率 - 悦云, server: netcp3.616626.xyz, port: 22307, type: vmess, uuid: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 【荷兰05】*0.5倍率 - 悦云, server: nara.189.ovh, port: 10027, type: trojan, password: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, sni: nara.189.ovh, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 【德国06】*0.5倍率 - 悦云, server: netcp4.616626.xyz, port: 10027, type: trojan, password: babae4df-8f9c-4d1f-9ce7-74f9eeaa6236, sni: netcp4.616626.xyz, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 官网 v52x.cc - 52Cloud, server: 52vpn.cc, port: 10086, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: A1| 亚太负载均衡节点 01 - 52Cloud, server: asia.52ady.com, port: 28034, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 A3| 英国 01 - 52Cloud, server: uk1.52ady.com, port: 47198, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
