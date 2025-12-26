@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 5745c2cd-baf6-30d9-943c-25e695c1ec74, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: d5b238ee-2119-4cce-b213-ed7c5217ea91, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- &id001 {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 94947cab-167a-38de-a9a7-9e51ea128735, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 643c29d9-3a31-48db-88c5-7afe87e29801, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: e4b8a720-e973-45ba-97ed-2b6972fcc356, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: e4b8a720-e973-45ba-97ed-2b6972fcc356, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02 - 悦云, server: vir11.189.ovh, port: 10022, type: trojan, password: e4b8a720-e973-45ba-97ed-2b6972fcc356, sni: vir11.189.ovh, skip-cert-verify: true, udp: true}
@@ -10,6 +10,4 @@ proxies:
 - {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: e4b8a720-e973-45ba-97ed-2b6972fcc356, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: e4b8a720-e973-45ba-97ed-2b6972fcc356, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: e4b8a720-e973-45ba-97ed-2b6972fcc356, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 A4| 美国 01 - 52Cloud, server: us1.52ady.com, port: 28042, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 A4| 美国 02 - 52Cloud, server: us2.52ady.com, port: 26661, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
