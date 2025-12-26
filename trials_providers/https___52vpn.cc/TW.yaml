@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 A3| 台湾 01 - 52Cloud, server: tw1.52ady.com, port: 28005, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
