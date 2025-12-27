@@ -5,7 +5,7 @@ proxies:
 - &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 490a325a-7a6e-302f-873a-30f673a4b837, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 490a325a-7a6e-302f-873a-30f673a4b837, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 490a325a-7a6e-302f-873a-30f673a4b837, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 666039b6-d81a-387e-92f1-a2eef42d6e9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 4f9d68e5-5429-3dc2-8026-8d4e20201b8c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
 - *id001
 - {name: 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云, server: naran1.616626.xyz, port: 22305, type: vmess, uuid: 8e6dbc98-f19a-46d2-b1ab-de6ee6e231fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -17,7 +17,6 @@ proxies:
 - {name: 🇩🇪 德国-v6|03*0.5倍率 - 悦云, server: netcp3.616626.xyz, port: 22307, type: vmess, uuid: 8e6dbc98-f19a-46d2-b1ab-de6ee6e231fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇳🇱 【荷兰05】*0.5倍率 - 悦云, server: nara.189.ovh, port: 10027, type: trojan, password: 8e6dbc98-f19a-46d2-b1ab-de6ee6e231fd, sni: nara.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 【德国06】*0.5倍率 - 悦云, server: netcp4.616626.xyz, port: 10027, type: trojan, password: 8e6dbc98-f19a-46d2-b1ab-de6ee6e231fd, sni: netcp4.616626.xyz, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 官网 v52x.cc - 52Cloud, server: 52vpn.cc, port: 10086, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id002
 - *id003
 - *id004
