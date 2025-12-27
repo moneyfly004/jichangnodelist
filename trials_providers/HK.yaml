@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: 2d3bf48e-4b40-3629-add6-9b788bf56cca, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: 490a325a-7a6e-302f-873a-30f673a4b837, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: 8e6dbc98-f19a-46d2-b1ab-de6ee6e231fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: 8e6dbc98-f19a-46d2-b1ab-de6ee6e231fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: 8e6dbc98-f19a-46d2-b1ab-de6ee6e231fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
