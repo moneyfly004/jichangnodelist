@@ -5,10 +5,9 @@ proxies:
 - &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 29453049-039b-31ee-9f09-ed37857f9f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 29453049-039b-31ee-9f09-ed37857f9f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 29453049-039b-31ee-9f09-ed37857f9f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 77915d45-6413-3afc-9024-4fe3b362ae87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: a00282dc-ab5a-31a7-badb-dd4c2b38a944, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
 - *id001
-- {name: ℹ️ 官网 v52x.cc - 52Cloud, server: 52vpn.cc, port: 10086, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id002
 - *id003
 - *id004
