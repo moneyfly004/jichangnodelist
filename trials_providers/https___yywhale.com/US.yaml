@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: e2bfa10d-56a8-4a49-b2fa-26c15ceec65b, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: f9567fd4-a5fa-4d93-80e7-6cd8b3498603, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
