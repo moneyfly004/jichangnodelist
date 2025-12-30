@@ -54,9 +54,9 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/moneyfly004/jichangnodelist/main/trials_providers/https___a.sdmone.pro/All.yaml
+    url: https://raw.kgithub.com/moneyfly004/jichangnodelist/main/trials_providers/https___52vpn.cc/All.yaml
     interval: 180
-    path: trials_providers/https___a.sdmone.pro/All.yaml
+    path: trials_providers/https___52vpn.cc/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
