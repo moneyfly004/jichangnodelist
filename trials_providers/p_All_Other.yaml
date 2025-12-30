@@ -11,3 +11,7 @@ proxies:
 - {name: 🇳🇱 【荷兰05】*0.5倍率 - 悦云, server: nara.189.ovh, port: 10027, type: trojan, password: 656d3bac-0839-4354-8881-be321e493fdd, sni: nara.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 【德国06】*0.5倍率 - 悦云, server: netcp4.616626.xyz, port: 10027, type: trojan, password: 656d3bac-0839-4354-8881-be321e493fdd, sni: netcp4.616626.xyz, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 官网 v52x.cc - 52Cloud, server: 52vpn.cc, port: 10086, type: vmess, uuid: 8d2cd8a9-8221-3588-b2ed-b24b30904966, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: c981bb70-7845-3e1c-96a8-0a03180b82fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: c981bb70-7845-3e1c-96a8-0a03180b82fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: c981bb70-7845-3e1c-96a8-0a03180b82fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: c981bb70-7845-3e1c-96a8-0a03180b82fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
