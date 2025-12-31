@@ -5,8 +5,7 @@ proxies:
 - &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: b2d93584-66cd-3c90-b540-1da9eae8702c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: b2d93584-66cd-3c90-b540-1da9eae8702c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: b2d93584-66cd-3c90-b540-1da9eae8702c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 228279db-db4e-341b-bdbb-203d240a1325, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- *id001
+- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: e2f3ae82-bac4-3c5f-b1f4-89e5434a9eda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
 - {name: 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云, server: naran1.616626.xyz, port: 22305, type: vmess, uuid: 793aef32-f305-4a98-98b6-5ff9d9c237c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇳🇱 荷兰-v6|02*0.5倍率 - 悦云, server: naran2.616626.xyz, port: 22306, type: vmess, uuid: 793aef32-f305-4a98-98b6-5ff9d9c237c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
