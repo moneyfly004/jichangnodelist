@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 289c2b31-76df-3115-b870-437e99c9cc1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
