@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- &id002 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: fb7decb8-f0f1-39b4-b8dc-21667aac78f6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: fb7decb8-f0f1-39b4-b8dc-21667aac78f6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: fb7decb8-f0f1-39b4-b8dc-21667aac78f6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: fb7decb8-f0f1-39b4-b8dc-21667aac78f6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 56f90583-ca6b-3b03-8aa2-7d3f887465cd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 09b70003-c04c-39ec-a429-011cec4241dc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 09b70003-c04c-39ec-a429-011cec4241dc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id004 {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 09b70003-c04c-39ec-a429-011cec4241dc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id005 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 09b70003-c04c-39ec-a429-011cec4241dc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: bf8a4025-3d07-3e93-a87b-502a614d30b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - *id001
 - *id001
 - {name: 🇳🇱 荷兰-v6|01*0.5倍率 - 悦云, server: naran1.616626.xyz, port: 22305, type: vmess, uuid: f2a17cbe-dcb4-47b0-a235-2db8285a8f7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
